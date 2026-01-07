@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boxicons Example</title>
+
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            padding: 0px 20px 0px 20px;
+            width: 100%;
+            height: 100%;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 100%;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .icon-container i {
+            font-size: 150px;
+            color: #ff7d54;
+            margin-bottom: 50px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+        .icon-container i:hover {
+            transform: scale(1.2);
+            color: #ff5722;
+        }
+
+        .heading-container h2 {
+            text-align: center;
+            font-size: 28px;
+            color: #1e1e1e;
+        }
+
+        .paragraph p {
+            font-size: 12px;
+            text-align: center;
+            color: #a0a0a0;
+        }
+
+        .button-container {
+            width: 100%;
+        }
+
+        button {
+            width: 100%;
+            border-radius: 10px;
+            border: none;
+            margin-top: 250px;
+            padding: 15px;
+            font-size: 16px;
+            background: #ff7d54;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="icon-container">
+            <i class='bx  bx-qr-scan'></i>
+        </div>
+        <div class="heading-container">
+            <h2>Welcome to Qr Scanner</h2>
+        </div>
+        <div class="paragraph">
+            <p>Please give access your Camera so that we can scan and provide you what is the inside the code</p>
+        </div>
+        <div class="button-container">
+            <a href="home.html"><button>Let's Get Started</button></a>
+        </div>
+    </div>
+</body>
+
+</html>

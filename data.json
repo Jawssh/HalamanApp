@@ -1,0 +1,14 @@
+[
+    {
+        "id": "123",
+        "name": "Juan Dela Cruz",
+        "barangay": "Barangay 1",
+        "age": 30
+    },
+    {
+        "id": "QR002",
+        "name": "Maria Santos",
+        "barangay": "Barangay 2",
+        "age": 25
+    }
+]

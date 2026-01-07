@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>QR Information</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        .card {
+            max-width: 400px;
+            margin: auto;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card" id="info">
+        Loading...
+    </div>
+
+    <script>
+        // Get QR value from URL
+        const params = new URLSearchParams(window.location.search);
+        const qrValue = params.get("qr");
+
+        if (!qrValue) {
+            document.getElementById("info").innerHTML = "No QR data found.";
+            throw new Error("No QR parameter");
+        }
+
+        fetch("data.json")
+            .then(async (res) => {
+                const dataJSON = await res.json();
+                console.log("dataJSON", dataJSON);
+                console.log("qrValue", qrValue)
+                const result = dataJSON.find(item => item.id === qrValue);
+
+                if (!result) {
+                    document.getElementById("info").innerHTML = "QR not found.";
+                    return;
+                }
+
+                document.getElementById("info").innerHTML = `
+                <h2>${result.name}</h2>
+                <p><strong>Barangay:</strong> ${result.barangay}</p>
+                <p><strong>Age:</strong> ${result.age}</p>
+            `
+            })
+
+            .catch(err => {
+                document.getElementById("info").innerHTML = "Error loading data.";
+                console.error(err);
+            });
+    </script>
+
+</body>
+
+</html>
