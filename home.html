@@ -39,7 +39,7 @@
 
         qr.start(
             { facingMode: "environment" },
-            { fps: 200, qrbox: 190 },
+            { fps: 10, qrbox: { width: 200, height: 200 } },
             (decodedText) => {
 
                 if (scanned) return;
