@@ -17,22 +17,22 @@ body {
 /* Main wrapper */
 .container {
     width: 100%;
-    min-height: 100vh;
+    min-height: 98vh;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
 }
 
 .heading-container h2 {
-    margin-top: 100px;
+    margin-top: 10px;
     text-align: center;
     font-size: 28px;
     color: #1e1e1e;
 }
 
 .paragraph p {
-    margin-top: 20px;
+    /* margin-top: 20px; */
     font-size: 12px;
     text-align: center;
     color: #a0a0a0;
@@ -45,12 +45,9 @@ body {
 
 #reader {
     width: 200px;
-    height: 200px;
+    height: 150px;
 }
 
-video {
-    width: 100%;
-}
 
 .button-container {
     width: 100%;
