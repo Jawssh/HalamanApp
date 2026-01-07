@@ -34,8 +34,32 @@
 
 
     <script>
+        const reader = document.getElementById("reader");
+
+        const observer = new MutationObserver(() => {
+            const qrRegion = reader.querySelector("video");
+            if (qrRegion) {
+                setTimeout(() => {
+                    const qrShadedRegion = document.getElementById("qr-shaded-region");
+
+                    const divsQRRegion = qrShadedRegion.getElementsByTagName("div")
+                    console.log(divsQRRegion[1])
+                    divsQRRegion[0].style.top = "-5px"
+                    divsQRRegion[1].style.top = "-5px"
+                    divsQRRegion[2].style.bottom = "-5px"
+                    divsQRRegion[3].style.bottom = "-5px"
+                }, 500);
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(reader, {
+            childList: true,
+            subtree: true
+        });
         const qr = new Html5Qrcode("reader");
         let scanned = false;
+
 
         qr.start(
             { facingMode: "environment" },
@@ -51,6 +75,7 @@
                 window.location.href = "info.html?qr=" + encodeURIComponent(decodedText);
             }
         );
+
 
 
     </script>
