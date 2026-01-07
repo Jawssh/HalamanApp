@@ -39,13 +39,13 @@ body {
 }
 
 .camera {
-    margin-top: 120px;
+    /* margin-top: 120px; */
 }
 
 
 #reader {
-    width: 300px;
-    height: 225px;
+    width: 200px;
+    height: 200px;
 }
 
 video {
