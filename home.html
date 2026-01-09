@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Blank Responsive Website</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://unpkg.com/html5-qrcode"></script>
 
@@ -35,54 +35,32 @@
 
 
     <script>
-        const reader = document.getElementById("reader");
+        window.addEventListener("load", () => {
+            const qr = new Html5Qrcode("reader");
+            let scanned = false;
 
-        const observer = new MutationObserver(() => {
-            const qrRegion = reader.querySelector("video");
-            // if (qrRegion) {
-            //     setTimeout(() => {
-            //         const qrShadedRegion = document.getElementById("qr-shaded-region");
 
-            //         const divsQRRegion = qrShadedRegion.getElementsByTagName("div")
-            //         console.log(divsQRRegion[1])
-            //         divsQRRegion[0].style.top = "-5px"
-            //         divsQRRegion[1].style.top = "-5px"
-            //         divsQRRegion[2].style.bottom = "-5px"
-            //         divsQRRegion[3].style.bottom = "-5px"
-            //     }, 2000);
-            //     observer.disconnect();
-            // }
+            qr.start(
+                { facingMode: "environment" },
+                {
+                    fps: 10,
+                    aspectRatio: 9 / 16,
+                    qrbox: { width: 300, height: 300 }
+                },
+                (decodedText) => {
+
+                    if (scanned) return;
+                    scanned = true;
+                    console.log(decodedText)
+                    qr.stop();
+
+                    // Redirect with QR value
+                    window.location.href = "info.html?qr=" + encodeURIComponent(decodedText);
+                }
+            ).catch(error => {
+                console.error("Catch error: ", error)
+            });
         });
-
-        observer.observe(reader, {
-            childList: true,
-            subtree: true
-        });
-        const qr = new Html5Qrcode("reader");
-        let scanned = false;
-
-
-        qr.start(
-            { facingMode: "environment" },
-            {
-                fps: 10,
-                aspectRatio: 9 / 16,
-                qrbox: { width: 300, height: 300 }
-            },
-            (decodedText) => {
-
-                if (scanned) return;
-                scanned = true;
-                console.log(decodedText)
-                qr.stop();
-
-                // Redirect with QR value
-                window.location.href = "info.html?qr=" + encodeURIComponent(decodedText);
-            }
-        );
-
-
-
     </script>
 
 

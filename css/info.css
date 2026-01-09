@@ -1,12 +1,13 @@
       body {
           font-family: Arial, sans-serif;
-          padding: 20px;
+          padding: 12px;
+          background: linear-gradient(0deg, rgba(242, 241, 241, 1) 0%, rgba(53, 121, 96, 1) 100%);
       }
 
       .card {
           max-width: 400px;
           margin: auto;
-          border: 1px solid #ccc;
+          border: 1px solid #cccccc5c;
           padding: 20px;
           border-radius: 10px;
       }
