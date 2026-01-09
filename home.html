@@ -39,19 +39,19 @@
 
         const observer = new MutationObserver(() => {
             const qrRegion = reader.querySelector("video");
-            if (qrRegion) {
-                setTimeout(() => {
-                    const qrShadedRegion = document.getElementById("qr-shaded-region");
+            // if (qrRegion) {
+            //     setTimeout(() => {
+            //         const qrShadedRegion = document.getElementById("qr-shaded-region");
 
-                    const divsQRRegion = qrShadedRegion.getElementsByTagName("div")
-                    console.log(divsQRRegion[1])
-                    divsQRRegion[0].style.top = "-5px"
-                    divsQRRegion[1].style.top = "-5px"
-                    divsQRRegion[2].style.bottom = "-5px"
-                    divsQRRegion[3].style.bottom = "-5px"
-                }, 2000);
-                observer.disconnect();
-            }
+            //         const divsQRRegion = qrShadedRegion.getElementsByTagName("div")
+            //         console.log(divsQRRegion[1])
+            //         divsQRRegion[0].style.top = "-5px"
+            //         divsQRRegion[1].style.top = "-5px"
+            //         divsQRRegion[2].style.bottom = "-5px"
+            //         divsQRRegion[3].style.bottom = "-5px"
+            //     }, 2000);
+            //     observer.disconnect();
+            // }
         });
 
         observer.observe(reader, {
@@ -66,7 +66,7 @@
             { facingMode: "environment" },
             {
                 fps: 10,
-                aspectRatio: 9 / 16,   // portrait like GCash
+                aspectRatio: 9 / 16,
                 qrbox: { width: 300, height: 300 }
             },
             (decodedText) => {

@@ -1,0 +1,34 @@
+      body {
+          font-family: Arial, sans-serif;
+          padding: 20px;
+      }
+
+      .card {
+          max-width: 400px;
+          margin: auto;
+          border: 1px solid #ccc;
+          padding: 20px;
+          border-radius: 10px;
+      }
+
+      img {
+          width: 100%;
+      }
+
+
+      /* Responsive breakpoints (empty by default) */
+      @media (max-width: 1200px) {
+          /* Large tablets / small laptops */
+      }
+
+      @media (max-width: 992px) {
+          /* Tablets */
+      }
+
+      @media (max-width: 768px) {
+          /* Mobile */
+      }
+
+      @media (max-width: 576px) {
+          /* Small mobile */
+      }
