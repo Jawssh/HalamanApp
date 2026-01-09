@@ -38,14 +38,17 @@ body {
     color: #a0a0a0;
 }
 
-.camera {
-    /* margin-top: 120px; */
-}
 
 
 #reader {
-    width: 200px;
+    width: 400px;
+    height: 700px;
+}
 
+#reader video {
+    width: 100% !important;
+    height: 700px;
+    object-fit: cover;
 }
 
 /* #qr-shaded-region div:nth-child(1) {
