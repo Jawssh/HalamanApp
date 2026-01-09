@@ -47,7 +47,7 @@ body {
 
 #reader video {
     width: 100% !important;
-    height: 630px;
+    height: 60vh;
     object-fit: cover;
 }
 
