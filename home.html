@@ -17,10 +17,11 @@
     <div class="container">
         <div class="heading-container">
             <h2>Scan Qr Code</h2>
+            <div class="paragraph">
+                <p>Place you qr code inside the frame to scan please avoid shake to get result quikly</p>
+            </div>
         </div>
-        <div class="paragraph">
-            <p>Place you qr code inside the frame to scan please avoid shake to get result quikly</p>
-        </div>
+
 
         <div class="camera">
             <div id="reader"></div>
@@ -63,7 +64,7 @@
 
         qr.start(
             { facingMode: "environment" },
-            { fps: 10, qrbox: { width: 100, height: 100 } },
+            { fps: 10, qrbox: 100 },
             (decodedText) => {
 
                 if (scanned) return;
