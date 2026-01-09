@@ -64,7 +64,11 @@
 
         qr.start(
             { facingMode: "environment" },
-            { fps: 10, qrbox: 100 },
+            {
+                fps: 10,
+                aspectRatio: 9 / 16,   // portrait like GCash
+                qrbox: { width: 150, height: 150 }
+            },
             (decodedText) => {
 
                 if (scanned) return;
