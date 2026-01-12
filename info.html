@@ -3,8 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>QR Information</title>
+    <title>Halaman App</title>
+    <link rel="icon" href="/assets/images/favicon/halaman-app.ico">
+    <link rel="apple-touch-icon" href="/assets/images/favicon/halaman-app.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Scan plant QR codes to instantly view detailed botanical information including scientific names, origins, benefits, and images. Fast, accurate, and mobile-friendly.">
+    <meta title="Halaman App">
+
     <link rel="stylesheet" href="css/info.css">
 
 
@@ -40,8 +46,8 @@
 
                 document.getElementById("info").innerHTML = `
                 <img src="${result.image_url}"/>
-                <h2>${result.name}</h2>
-                <p><strong>Barangay:</strong> ${result.definition}</p>
+                <h2>${result.name} <i>(${result.scientificName})</i></h2>
+                <p><strong>Definition:</strong> ${result.definition}</p>
                 <p><strong>Origin:</strong> ${result.origin}</p>
                 <p><strong>Science Classification:</strong> ${result.scientificClass}</p>
                 <p><strong>Type/Species:</strong> ${result.type}</p>
