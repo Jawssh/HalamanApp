@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>RootsOfKnowledge</title>
+    <link rel="icon" href="/assets/images/favicon/halaman-app.ico">
+    <link rel="apple-touch-icon" href="/assets/images/favicon/halaman-app.ico">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/global.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Scan plant QR codes to instantly view detailed botanical information including scientific names, origins, benefits, and images. Fast, accurate, and mobile-friendly.">
+    <meta title="RootsOfKnowledge">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://halaman-app.vercel.app/">
+    <meta property="og:title" content="RootsOfKnowledge">
+    <meta property="og:description"
+        content="Scan a QR code and instantly access plant details like scientific name, origin, uses, and lifespan.">
+    <meta property="og:image" content="https://halaman-app.vercel.app/assets/images/favicon/halaman-app.ico">
+
+
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="icon-container">
+            <i class='bx  bx-qr-scan'></i>
+        </div>
+        <div class="heading-container">
+            <h2>Welcome to RootsOfKnowledge</h2>
+        </div>
+        <input type="text" id="textInput" oninput="checkInputLenght()"
+            placeholder="Enter Your Name (4 Characters Above)" required>
+        <div class="paragraph">
+            <p>Please give access your Camera so that we can scan and provide you what is the inside the code</p>
+        </div>
+        <div class="button-container">
+            <button id="submitBtn" onclick="submitAndProceed()" disabled>Let's Get Started</button>
+        </div>
+    </div>
+    <script src="../js/index.js"></script>
+</body>
+
+</html>

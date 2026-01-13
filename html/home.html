@@ -3,13 +3,15 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Halaman App</title>
+    <title>RootsOfKnowledge</title>
     <link rel="icon" href="/assets/images/favicon/halaman-app.ico">
     <link rel="apple-touch-icon" href="/assets/images/favicon/halaman-app.ico">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/global.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Scan plant QR codes to instantly view detailed botanical information including scientific names, origins, benefits, and images. Fast, accurate, and mobile-friendly.">
-    <meta title="Halaman App">
+    <meta title="RootsOfKnowledge">
 
     <link rel="stylesheet" href="css/style.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -19,7 +21,7 @@
 
 <body>
 
-
+    <script src="../js/home.js"></script>
     <div class="container">
         <div class="heading-container">
             <h2>Scan Qr Code</h2>
@@ -36,35 +38,7 @@
 
 
 
-    <script>
-        window.addEventListener("load", () => {
-            const qr = new Html5Qrcode("reader");
-            let scanned = false;
 
-
-            qr.start(
-                { facingMode: "environment" },
-                {
-                    fps: 10,
-                    aspectRatio: 9 / 16,
-                    qrbox: { width: 300, height: 300 }
-                },
-                (decodedText) => {
-
-                    if (scanned) return;
-                    scanned = true;
-                    console.log(decodedText)
-                    qr.stop();
-
-                    // Redirect with QR value
-                    window.location.href = "info.html?qr=" + encodeURIComponent(decodedText);
-                }
-            ).catch(error => {
-                console.error("Catch error: ", error)
-                alert("Unexpected Error Occured: ", error)
-            });
-        });
-    </script>
 
 
 </body>
