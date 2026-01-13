@@ -6,8 +6,9 @@ const DIALOGUE = [
         message: "Welcome! We're excited to have you explore our website and learn all about the fascinating world of plants."
     },
     {
-        message: `Hello, ${sessionStorage.getItem("userName")}`,
-        speak: true
+        message: "Hello, ",
+        speak: true,
+        hasName: true
     },
     {
         message: "Are you ready to learn more about plants?",

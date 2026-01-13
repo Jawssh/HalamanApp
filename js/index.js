@@ -16,15 +16,14 @@ window.addEventListener("load", () => {
 
     function checkInputLenght() {
         console.log("here")
-        submitBtn.disabled = textInput.value.length <= 3;
+        submitBtn.disabled = textInput.value.length < 3;
     }
 
     submitBtn.addEventListener("click", submitAndProceed)
     function submitAndProceed() {
-        const inputValue = document.getElementById("textInput").value.trim();
 
         // Save to sessionStorage
-        sessionStorage.setItem("userName", inputValue);
+        sessionStorage.setItem("userName", textInput.value.trim());
         welcomeEl.style.display = "none"
         nextPageEl.style.display = "contents"
 
@@ -34,7 +33,12 @@ window.addEventListener("load", () => {
     function nextDialogue() {
         if (dialogueCount + 1 < DIALOGUE.length) {
             dialogueCount++
-            dialogueContent.textContent = DIALOGUE[dialogueCount].message;
+            if (DIALOGUE[dialogueCount].hasName) {
+                dialogueContent.textContent = DIALOGUE[dialogueCount].message + sessionStorage.getItem("userName");
+            } else {
+                dialogueContent.textContent = DIALOGUE[dialogueCount].message;
+            }
+
             if (DIALOGUE[dialogueCount].speak) {
                 charImage.src = "./assets/images/carla2.png"
                 charImage.style.marginRight = "130px"
