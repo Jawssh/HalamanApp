@@ -21,3 +21,120 @@ button:disabled {
     opacity: 0.5;
     cursor: not-allowed;
 }
+
+.next-page {
+    width: 100%;
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.dialogue-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 10px #bb8652 solid;
+    box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.40);
+    -webkit-box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.40);
+    -moz-box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.40);
+    border-radius: 6px;
+    background: #f1f1f1;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 3s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+.button-container {
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+
+#next-button i {
+    font-size: 25px;
+}
+
+#next-button {
+    width: auto;
+    height: auto;
+    padding: 12px;
+}
+
+#char-image {
+    height: 350px;
+}
+
+.person-container {
+    position: relative;
+}
+
+/* Mouth */
+#mouth {
+    visibility: hidden;
+    position: absolute;
+    top: 71px;
+    left: 101px;
+    transform: translateX(-50%);
+
+    width: 16px;
+    height: 4px;
+
+    background: #b14b4b;
+    border-radius: 0 0 12px 12px;
+    overflow: hidden;
+
+    animation: speak 1.4s ease-in-out infinite;
+    rotate: -13deg;
+}
+
+/* Inner mouth */
+.inner-mouth {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: #2f0909;
+    border-radius: inherit;
+}
+
+/* Animation */
+@keyframes speak {
+    0% {
+        height: 4px;
+        /* smile */
+    }
+
+    25% {
+        height: 6px;
+        border-radius: 50%;
+    }
+
+    /* 50% {
+        height: 3px;
+    }
+
+    70% {
+        height: 7px;
+        border-radius: 50%;
+    } */
+
+    100% {
+        height: 4px;
+        border-radius: 0 0 12px 12px;
+    }
+}

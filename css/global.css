@@ -1,53 +1,69 @@
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-        body {
-            background-image: url(../assets/images/background.png);
-            background-repeat: no-repeat;
-            background-size: cover;
-            width: 100vw;
-            height: 100vh;
-            font-family: Arial, sans-serif;
-        }
+body {
+    background-image: url(../assets/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
 
-        .container {
-            padding: 0px 20px 0px 20px;
-            width: 100%;
-            min-height: 98vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            gap: 20px;
-        }
+.container {
+    padding: 0px 20px 0px 20px;
+    width: 100%;
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 
-        .heading-container h2 {
-            text-align: center;
-            font-weight: 900;
-            font-size: 28px;
-            color: #fdfdfd;
-        }
+.welcome-container {
+    width: 100%;
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.heading-container h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #fdfdfd;
+}
+
+.heading-container h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 28px;
+    color: #fdfdfd;
+}
 
 
 
-        .paragraph p {
-            font-size: 12px;
-            text-align: center;
-            color: #afafaf;
-        }
+.paragraph p {
+    font-size: 12px;
+    text-align: center;
+    color: #afafaf;
+}
 
-        button {
-            width: 100%;
-            border-radius: 10px;
-            border: none;
-            padding: 20px;
-            font-size: 16px;
-            background: #12a66f;
-            color: #fdfdfd;
-            cursor: pointer;
-            font-weight: 600;
+button {
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    font-size: 16px;
+    background: #12a66f;
+    color: #fdfdfd;
+    cursor: pointer;
+    font-weight: 600;
 
-        }
+}

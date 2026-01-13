@@ -23,28 +23,51 @@
 
     <!-- Boxicons CSS -->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="./data/dialogue.js"></script>
 
 
 </head>
 
 <body>
 
+
     <div class="container">
-        <div class="icon-container">
-            <i class='bx  bx-qr-scan'></i>
-        </div>
-        <div class="heading-container">
-            <h2>Welcome to RootsOfKnowledge</h2>
-        </div>
-        <input type="text" id="textInput" oninput="checkInputLenght()"
-            placeholder="Enter Your Name (4 Characters Above)" required>
-        <div class="paragraph">
-            <p>Please give access your Camera so that we can scan and provide you what is the inside the code</p>
-        </div>
-        <div class="button-container">
-            <button id="submitBtn" onclick="submitAndProceed()" disabled>Let's Get Started</button>
+        <!-- <div class="welcome-container">
+            <div class="icon-container">
+                <i class='bx  bx-qr-scan'></i>
+            </div>
+            <div class="heading-container">
+                <h2>Welcome to </h2>
+                <h1>RootsOfKnowledge</h1>
+            </div>
+            <input type="text" id="textInput" oninput="checkInputLenght()"
+                placeholder="Enter Your Name (Minimum of 4 Characters)" required>
+
+            <div class="button-container">
+                <button id="submitBtn" onclick="submitAndProceed()" disabled>Let's Get Started</button>
+            </div>
+        </div> -->
+
+        <div class="next-page">
+            <div class="dialogue-box fade-in">
+                <p id="dialogue-content"></p>
+                <div class="button-container"><button id="next-button">
+                        <i class='bx bx-chevrons-right'></i>
+                    </button></div>
+            </div>
+            <div class="person-container">
+                <img src="./assets/images/carla1.png" alt="" id="char-image">
+                <div id="mouth">
+                    <div class="inner-mouth"></div>
+                </div>
+            </div>
         </div>
     </div>
+    </div>
+
+
+    </div>
+
     <script src="js/index.js"></script>
 </body>
 
