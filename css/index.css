@@ -22,7 +22,7 @@ button:disabled {
     cursor: not-allowed;
 }
 
-.next-page {
+#next-page {
     width: 100%;
     min-height: 98vh;
     display: flex;
@@ -30,6 +30,7 @@ button:disabled {
     justify-content: center;
     align-items: center;
     gap: 20px;
+    display: none;
 }
 
 .dialogue-box {

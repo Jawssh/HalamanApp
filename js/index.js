@@ -5,19 +5,28 @@ window.addEventListener("load", () => {
     const nextButton = document.getElementById("next-button");
     const charImage = document.getElementById("char-image")
     const mouthEl = document.getElementById("mouth")
+    const welcomeEl = document.getElementById("welcome-container")
+    const nextPageEl = document.getElementById("next-page")
     dialogueContent.textContent = DIALOGUE[dialogueCount].message;
-    function checkInputLenght() {
-        const input = document.getElementById("textInput").value;
-        const button = document.getElementById("submitBtn");
 
-        button.disabled = input.length <= 3;
+    const textInput = document.getElementById("textInput")
+    const submitBtn = document.getElementById("submitBtn");
+
+    textInput.addEventListener("input", checkInputLenght)
+
+    function checkInputLenght() {
+        console.log("here")
+        submitBtn.disabled = textInput.value.length <= 3;
     }
+
+    submitBtn.addEventListener("click", submitAndProceed)
     function submitAndProceed() {
         const inputValue = document.getElementById("textInput").value.trim();
 
         // Save to sessionStorage
         sessionStorage.setItem("userName", inputValue);
-
+        welcomeEl.style.display = "none"
+        nextPageEl.style.display = "contents"
 
     }
 
@@ -33,7 +42,7 @@ window.addEventListener("load", () => {
             }
 
         } else {
-            window.location.href = "html/home.html";
+            window.location.href = "/html/home.html";
         }
 
 

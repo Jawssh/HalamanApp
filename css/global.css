@@ -24,7 +24,7 @@ body {
     gap: 20px;
 }
 
-.welcome-container {
+#welcome-container {
     width: 100%;
     min-height: 98vh;
     display: flex;
