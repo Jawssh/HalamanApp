@@ -8,8 +8,8 @@ function submitAndProceed() {
     const inputValue = document.getElementById("textInput").value.trim();
 
     // Save to sessionStorage
-    sessionStorage.setItem("userInput", inputValue);
+    sessionStorage.setItem("userName", inputValue);
 
     // Redirect to next page
-    window.location.href = "home.html";
+    window.location.href = "html/home.html";
 }

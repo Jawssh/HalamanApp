@@ -1,10 +1,9 @@
-const value = sessionStorage.getItem("userInput");
-
-if (!value || value.trim().length <= 3) {
-    window.location.replace("index.html");
-}
-
 window.addEventListener("load", () => {
+    const value = sessionStorage.getItem("userName");
+
+    if (!value || value.trim().length <= 3) {
+        window.location.replace("index.html");
+    }
     const qr = new Html5Qrcode("reader");
     let scanned = false;
 
