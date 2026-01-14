@@ -12,10 +12,10 @@ window.addEventListener("load", () => {
     const textInput = document.getElementById("textInput")
     const submitBtn = document.getElementById("submitBtn");
 
+    if (sessionStorage.getItem("userName")) showNextPage();
     textInput.addEventListener("input", checkInputLenght)
 
     function checkInputLenght() {
-        console.log("here")
         submitBtn.disabled = textInput.value.length < 3;
     }
 
@@ -24,8 +24,7 @@ window.addEventListener("load", () => {
 
         // Save to sessionStorage
         sessionStorage.setItem("userName", textInput.value.trim());
-        welcomeEl.style.display = "none"
-        nextPageEl.style.display = "contents"
+        showNextPage();
 
     }
 
@@ -48,12 +47,10 @@ window.addEventListener("load", () => {
         } else {
             window.location.href = "/html/home.html";
         }
-
-
-
     }
 
-
-
-
+    function showNextPage() {
+        welcomeEl.style.display = "none"
+        nextPageEl.style.display = "contents"
+    }
 });

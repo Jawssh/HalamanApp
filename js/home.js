@@ -23,7 +23,7 @@ window.addEventListener("load", () => {
             qr.stop();
 
             // Redirect with QR value
-            window.location.href = "/info.html?qr=" + encodeURIComponent(decodedText);
+            window.location.href = "../html/info.html?qr=" + encodeURIComponent(decodedText);
         }
     ).catch(error => {
         console.error("Catch error: ", error)
