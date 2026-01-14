@@ -12,7 +12,12 @@ window.addEventListener("load", () => {
     const textInput = document.getElementById("textInput")
     const submitBtn = document.getElementById("submitBtn");
 
-    if (sessionStorage.getItem("userName")) showNextPage();
+    const value = sessionStorage.getItem("userName");
+
+    if (value && value?.trim().length > 3) {
+
+        showNextPage();
+    };
     textInput.addEventListener("input", checkInputLenght)
 
     function checkInputLenght() {

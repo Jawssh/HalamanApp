@@ -2,7 +2,7 @@ window.addEventListener("load", () => {
     const value = sessionStorage.getItem("userName");
 
     if (!value || value.trim().length <= 3) {
-        window.location.replace("index.html");
+        window.location.replace("/");
     }
     const qr = new Html5Qrcode("reader");
     let scanned = false;
