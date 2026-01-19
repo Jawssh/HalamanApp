@@ -44,8 +44,8 @@ window.addEventListener("load", () => {
             }
 
             if (DIALOGUE[dialogueCount].speak) {
-                charImage.src = "./assets/images/carla2.png"
-                charImage.style.marginRight = "130px"
+                charImage.src = "./assets/images/person2.png"
+                // charImage.style.marginRight = "130px"
                 mouthEl.style.visibility = "visible"
             }
 

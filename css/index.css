@@ -75,7 +75,9 @@ button:disabled {
 }
 
 #char-image {
+    margin-top: 10px;
     height: 350px;
+
 }
 
 .person-container {
@@ -86,19 +88,16 @@ button:disabled {
 #mouth {
     visibility: hidden;
     position: absolute;
-    top: 71px;
-    left: 101px;
-    transform: translateX(-50%);
-
-    width: 16px;
-    height: 4px;
-
+    top: 53px;
+    left: 98px;
+    /* transform: translateX(-50%); */
+    width: 13px;
+    height: 2px;
     background: #b14b4b;
     border-radius: 0 0 12px 12px;
     overflow: hidden;
-
     animation: speak 1.4s ease-in-out infinite;
-    rotate: -13deg;
+    rotate: -9deg;
 }
 
 /* Inner mouth */
