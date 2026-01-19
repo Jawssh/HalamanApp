@@ -3,8 +3,8 @@
         "id": "QR001",
         "name": "Areca Palm",
         "scientificName": "Dypsis",
-        "definition": "Dypsis lutescens is a clumping, tropical palm tree known for its slender, arching fronds...",
-        "origin": "Native to Madagascar...",
+        "definition": "Dypsis lutescens is a clumping, tropical palm tree known for its slender, arching fronds with feathery leaflets and yellowish stems. It’s widely grown as an ornamental plant for indoor decor and outdoor landscaping in warm climates. ",
+        "origin": "Native to Madagascar (eastern and northwestern regions); it has been naturalized in parts of Southeast Asia, Australia, and the Caribbean.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -16,24 +16,23 @@
             "Species: D. lutescens"
         ],
         "type": [
-            "Type species of the genus Dypsis is Dypsis pinnatifrons",
-            "D. lutescens is a prominent but not the type species"
+            "The type species of the genus Dypsis is Dypsis pinnatifrons (not D. lutescens). D. lutescens is a prominent species within the genus but not the type."
         ],
         "synonyms": [
-            "Chrysalidocarpus lutescens H.Wendl.",
+            "Chrysalidocarpus lutescens H.Wendl. (most common former name)",
             "Areca lutescens (H.Wendl.) Baill.",
             "Neodypsis lutescens (H.Wendl.) Beentje & J.Dransf."
         ],
         "benefits": [
-            "Air purification (removes formaldehyde, benzene, trichloroethylene)",
-            "Ornamental value for indoor and outdoor use",
-            "Humidity regulation",
-            "Non-toxic to cats and dogs",
-            "Soil stabilization"
+            "Air purification: Removes formaldehyde, benzene, and trichloroethylene (per NASA’s clean air study).",
+            "Ornamental value: Enhances indoor/outdoor aesthetics with its lush, tropical look.",
+            "Humidity regulation: Adds moisture to indoor air.",
+            "Non-toxic: Safe for cats and dogs (per ASPCA).",
+            "Soil stabilization: Helps prevent erosion in outdoor plantings."
         ],
         "lifeSpan": [
-            "Indoor: 10–20 years with proper care",
-            "Outdoor (tropical): 20–50 years or more"
+            "Indoor: Typically 10–20 years with proper care (bright light, regular watering, well-drained soil).",
+            "Outdoor (tropical climates): Can live 20–50 years or more, forming large, dense clumps over time."
         ],
         "image_url": "../assets/images/areca-palm.jpg"
     },
@@ -41,8 +40,8 @@
         "id": "QR002",
         "name": "Aloe vera (L.) Burm. F.",
         "scientificName": "",
-        "definition": "Aloe vera is a stemless or short-stemmed succulent plant in the Asphodelaceae family, known for its thick, fleshy, serrated leaves that contain a gel-rich in bioactive compounds. It's widely cultivated for medicinal, cosmetic, and ornamental use.",
-        "origin": "Native to the Arabian Peninsula; it grows wild in tropical, subtropical, and arid regions worldwide and is naturalized in many areas (considered invasive in some).",
+        "definition": "Aloe vera is a stemless or short-stemmed succulent plant in the Asphodelaceae family, known for its thick, fleshy, serrated leaves that contain a gel-rich in bioactive compounds. It’s widely cultivated for medicinal, cosmetic, and ornamental use.",
+        "origin": "Native to the Arabian Peninsula; it grows wild in tropical, subtropical, and arid regions worldwide and is naturalized in many areas (considered invasive in some). Historical records link its use to ancient Mesopotamia, Egypt, and Greece.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -54,8 +53,7 @@
             "Species: A. vera"
         ],
         "type": [
-            "The type species of the genus Aloe is Aloe perfoliata",
-            "A. vera is a well-known species but not the type species"
+            "The type species of the genus Aloe is Aloe perfoliata (not A. vera). A. vera is a well-known species but not the type"
         ],
         "synonyms": [
             "Aloe barbadensis Mill.",
@@ -66,14 +64,13 @@
             "Aloe flava Pers."
         ],
         "benefits": [
-            "Topical use: Soothes sunburns and skin irritation",
-            "Hair care: Nourishes scalp and strengthens hair",
-            "Internal use: Aids digestion (consult doctor)",
-            "Ornamental: Easy to grow indoors"
+            "Topical use: Soothes sunburns, skin irritation, rashes, and minor wounds; moisturizes skin and promotes healing.",
+            "Hair care: Nourishes scalp, reduces dandruff, and strengthens hair.",
+            "Internal use (with caution): Aids digestion, may regulate blood sugar (consult a doctor first), and provides antioxidants.",
+            "Ornamental: Easy to grow indoors as a potted plant."
         ],
         "lifeSpan": [
-            "Indoor or outdoor: With proper care, it can live 20 years or more",
-            "In ideal tropical conditions, some plants survive decades"
+            "Indoor/outdoor: With proper care (well-drained soil, bright light, moderate watering), it can live 20 years or more. In ideal tropical conditions, some plants survive decades."
         ],
         "image_url": "../assets/images/aloe-vera.jpg"
     },
@@ -81,21 +78,20 @@
         "id": "QR003",
         "name": "Madagascar periwinkle",
         "scientificName": "Catharanthus roseus",
-        "definition": "An evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae). The species epithet means 'pink.'",
+        "definition": "Madagascar periwinkle is an evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae). It is native to Madagascar but has naturalized in warm areas around the world. The species epithet means 'pink.' ",
         "origin": "Native to the island of Madagascar.",
         "scientificClass": [
             "Domain: Eukaryote",
-            "Kingdom: Plantae",
+            "Kingdom: Plantae-Plants",
             "Division: Magnoliophyta",
             "Class: Magnoliopsida",
             "Order: Gentianales",
-            "Family: Apocynaceae",
-            "Genus: Catharanthus",
-            "Species: C. roseus"
+            "Family: Apocynaceae Juss. - Dogbane family",
+            "Genus: Catharanthus G. Don - periwinkle",
+            "Species: Catharanthus roseus (L.) G. Don - Madagascar periwinkle"
         ],
         "type": [
-            "Evergreen, tender, erect-to-spreading perennial",
-            "Member of the dogbane family (Apocynaceae)"
+            "evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae)"
         ],
         "synonyms": [
             "Vinca rosea",
@@ -103,12 +99,12 @@
             "Lochnera rosea"
         ],
         "benefits": [
-            "Traditional medicine: Used for headaches and vertigo",
-            "Anti-cancer: Source of vinblastine and vincristine for chemotherapy",
-            "Antioxidant activity"
+            "European herbalists have used periwinkle for headaches, vertigo, and poor memory since medieval times. ",
+            "Source of anti-cancer medicines vinblastine, vincristine and vinorelbine which are used in chemotherapy. ",
+            "Antioxidant activity, which helps protect against environmental stress and cellular damage."
         ],
         "lifeSpan": [
-            "Perennial plant Often grown as an annual or semi-annual depending on climate"
+            "Perennial, but often grown as an annual or semi-annual plant depending on climate and maintenance. "
         ],
         "image_url": "../assets/images/madagascar-periwinkle.jpg"
     },
@@ -116,7 +112,7 @@
         "id": "QR004",
         "name": "False Ashoka Tree",
         "scientificName": "Polyalthia longifolia",
-        "definition": "A tall, evergreen tree known for its slender, columnar growth habit and wavy-edged leaves.",
+        "definition": " A tall, evergreen tree known for its slender, columnar growth habit and wavy-edged leaves.",
         "origin": "Native to India and Sri Lanka.",
         "scientificClass": [
             "Domain: Eukaryote",
@@ -137,12 +133,12 @@
             "Uvaria longifolia"
         ],
         "benefits": [
-            "Ornamental landscaping",
-            "Natural sound barrier and windbreak",
-            "Provides dense shade"
+            "Ornamental tree for landscaping, especially in urban areas.",
+            "Acts as a natural sound barrier and windbreak.",
+            "Provides shade due to its dense foliage."
         ],
         "lifeSpan": [
-            "Typically lives 50–70 years with proper care"
+            "50–70 years with proper care."
         ],
         "image_url": "../assets/images/false-ashoka.jpg"
     },
@@ -150,35 +146,38 @@
         "id": "QR005",
         "name": "Ramgoat Dashalong",
         "scientificName": "Turnera ulmifolia L.",
-        "definition": "A perennial, woody herb or erect shrub recognized by its serrated leaves and bright yellow flowers that open in the morning.",
-        "origin": "Native to the Caribbean basin, Mexico, Central and South America.",
+        "definition": "Turnera ulmifolia is a perennial, woody herb or erect shrub in the Passifloraceae (formerly Turneraceae) family. It’s recognized by its lanceolate/ovate serrated leaves and bright yellow, star-shaped flowers that open in the morning and close by afternoon. It’s valued for ornamental and medicinal uses.",
+        "origin": "Native to the Caribbean basin, Mexico, Central America, and South America (from Mexico to Argentina). It’s naturalized in tropical/subtropical regions worldwide (e.g., Southeast Asia, Australia, Florida) and is invasive in some areas like New Caledonia.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
             "Division: Tracheophyta",
-            "Class: Magnoliopsida",
+            "Class: Magnoliopsida (Dicot)",
             "Order: Malpighiales",
-            "Family: Passifloraceae",
+            "Family: Passifloraceae (subfamily Turneroideae) ",
             "Genus: Turnera",
             "Species: T. ulmifolia"
         ],
         "type": [
-            "Type species of the genus Turnera is Turnera diffusa",
-            "T. ulmifolia is not the type species"
+            "The type species of the genus Turnera is Turnera diffusa (not T. ulmifolia). ",
+            "T. ulmifolia is a prominent species but not the type. "
         ],
         "synonyms": [
-            "Turnera alba",
-            "Turnera angustifolia",
-            "Turnera chamaedrys",
-            "Turnera cistoides"
+            "Turnera alba Liebm. ",
+            "Turnera angustifolia Mill. ",
+            "Turnera chamaedrys Klotzsch ",
+            "Turnera cistoides Baill. ",
+            "Turnera corchoroides Klotzsch ",
+            "Turnera peruviana Willd. ex Roem. & Schult. ",
+            "Turnera velutina C. Presl "
         ],
         "benefits": [
-            "Ornamental: Attracts butterflies and bees",
-            "Medicinal: Used as expectorant and digestive aid",
-            "Drought-tolerant"
+            "Ornamental: Bright, long-blooming flowers for borders, ground cover, or tropical gardens; attracts butterflies and bees. ",
+            "Medicinal: Used traditionally as an expectorant, digestive aid, and to relieve menstrual cramps, rheumatism, wounds, and headaches. Extracts may have antimicrobial properties and potentiate antibiotics against resistant bacteria (e.g., MRSA). ",
+            "Drought-tolerant: Adaptable to dry, disturbed sites. "
         ],
         "lifeSpan": [
-            "Perennial (lives multiple years). In tropical climates, it can persist 5–15 years or more with proper care (full sun/partial shade, well-drained soil). As an annual in temperate regions, it grows for one season but self-seeds readily."
+            "Perennial (lives multiple years). In tropical climates, it can persist 5–15 years or more with proper care (full sun/partial shade, well-drained soil). As an annual in temperate regions, it grows for one season but self-seeds readily. "
         ],
         "image_url": "../assets/images/ramgoat-dashalong.jpg"
     },
@@ -186,8 +185,8 @@
         "id": "QR006",
         "name": "Rubber Fig",
         "scientificName": "Ficus elastica",
-        "definition": "A large tropical evergreen tree known for thick, glossy leaves that produce milky latex.",
-        "origin": "Native to Southeast Asia, particularly India, Nepal, Myanmar, and Indonesia.",
+        "definition": "A large tropical evergreen tree or ornamental houseplant known for its thick, glossy leaves that produce a milky latex used in making natural rubber. ",
+        "origin": "Native to Southeast Asia, particularly India, Nepal, Myanmar, and Indonesia. ",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -207,9 +206,9 @@
             "Rubber Bush"
         ],
         "benefits": [
-            "Natural air purifier",
-            "Improves oxygen and humidity",
-            "Popular ornamental plant"
+            "Acts as a natural air purifier by removing indoor toxins. ",
+            "Improves oxygen and humidity levels indoors. ",
+            "Popular ornamental plant for homes and offices. "
         ],
         "lifeSpan": [
             "20–50 years or more with proper care"
@@ -220,8 +219,8 @@
         "id": "QR007",
         "name": "Song of India",
         "scientificName": "Dracaena reflexa",
-        "definition": "A tropical evergreen shrub with glossy, lance-shaped leaves arranged spirally around the stem.",
-        "origin": "Native to Madagascar, Mauritius, and nearby Indian Ocean islands.",
+        "definition": "A tropical evergreen shrub known for its glossy, lance-shaped leaves arranged spirally around the stem. It is a popular ornamental houseplant valued for its attractive foliage and air-purifying qualities. ",
+        "origin": "Native to Madagascar, Mauritius, and nearby islands in the Indian Ocean.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -230,22 +229,23 @@
             "Order: Asparagales",
             "Family: Asparagaceae",
             "Genus: Dracaena",
-            "Species: D. reflexa"
+            "Species: Dracaena reflexa"
         ],
         "type": [
-            "Dracaena reflexa species",
-            "Popular varieties include Song of India and Song of Jamaica"
+            "Dracaena reflexa is one of several species in the Dracaena genus. ",
+            "Popular varieties include Dracaena reflexa var. angustifolia (commonly called the Song of India) and Dracaena reflexa var. reflexa (Song of Jamaica)."
         ],
         "synonyms": [
-            "Pleomele reflexa"
+            "Commonly referred to as Pleomele reflexa in older classifications."
         ],
         "benefits": [
-            "Purifies air (removes formaldehyde and xylene)",
-            "Low maintenance",
-            "Used in feng shui for tranquility"
+            "Purifies indoor air by removing toxins such as formaldehyde and xylene",
+            "Enhances interior aesthetics with its lush, tropical appearance ",
+            "Easy to care for and tolerant of low light conditions ",
+            "Used in feng shui and indoor décor to promote tranquility and balance  "
         ],
         "lifeSpan": [
-            "With proper care, Dracaena reflexa can live 10 to 15 years indoors, and even longer in ideal tropical outdoor conditions."
+            "With proper care, Dracaena reflexa can live 10 to 15 years indoors, and even longer in ideal tropical outdoor conditions. "
         ],
         "image_url": "../assets/images/song-of-india.jpg"
     },
@@ -253,8 +253,8 @@
         "id": "QR008",
         "name": "West Indian Jasmine",
         "scientificName": "Ixora coccinea",
-        "definition": "A flowering tropical shrub known for bright red, pink, or orange flower clusters.",
-        "origin": "Native to Southern India and Sri Lanka.",
+        "definition": "A flowering tropical shrub known for its bright red, pink, or orange flower clusters. ",
+        "origin": "Native to Southern India and Sri Lanka; now common in tropical regions. ",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -274,12 +274,12 @@
             "Flame of the Woods"
         ],
         "benefits": [
-            "Ornamental landscaping",
-            "Traditional medicine for wounds and infections",
-            "Attracts butterflies"
+            "Ornamental for landscaping. ",
+            "Used in traditional medicine for wounds and skin infections. ",
+            "Attracts butterflies and pollinators. "
         ],
         "lifeSpan": [
-            "10–15 years with proper care"
+            "10–15 years with proper care. "
         ],
         "image_url": "../assets/images/ixora.jpg"
     },
@@ -287,20 +287,20 @@
         "id": "QR009",
         "name": "Aratiles Tree",
         "scientificName": "Muntingia calabura",
-        "definition": "A fast-growing tropical fruit tree producing small sweet red berries.",
-        "origin": "Native to Southern Mexico, Central and South America.",
+        "definition": "A fast-growing tropical fruit tree known for its small, sweet red berries.",
+        "origin": "Native to Southern Mexico, Central and South America. ",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
+            "Division: Magnoliophyta ( Angiosperms) ",
+            "Class: Magnoliopsida ( Dicotylesons) ",
             "Order: Malvales",
             "Family: Muntingiaceae",
             "Genus: Muntingia",
             "Species: M. calabura"
         ],
         "type": [
-            "Only species in the genus Muntingia"
+            "Muntingia calabura (only species in its genus) "
         ],
         "synonyms": [
             "Aratiles",
@@ -310,12 +310,12 @@
             "Jamaican Cherry"
         ],
         "benefits": [
-            "Edible sweet fruits",
-            "Provides shade and attracts birds",
-            "Traditional medicine for pain and inflammation"
+            "Fruits are edible and sweet. ",
+            "Provides shade and attracts birds. ",
+            "Used in traditional medicine for pain and inflammation. "
         ],
         "lifeSpan": [
-            "Around 20–40 years under good conditions"
+            " Around 20–40 years under good conditions. "
         ],
         "image_url": "../assets/images/aratiles.jpg"
     },
@@ -323,8 +323,8 @@
         "id": "QR010",
         "name": "Ti Plant",
         "scientificName": "Cordyline fruticosa",
-        "definition": "An evergreen shrub prized for vibrant, colorful foliage.",
-        "origin": "Native to Southeast Asia, Eastern Australia, and Pacific Islands.",
+        "definition": " The Ti plant, or Cordyline fruticosa, is an evergreen shrub prized for its vibrant, colorful foliage. It's often used as an ornamental plant, both indoors and outdoors, in tropical and subtropical climates. ",
+        "origin": "Native to Southeast Asia, Eastern Australia, and the Pacific Islands. ",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -335,7 +335,7 @@
             "Genus: Cordyline"
         ],
         "type": [
-            "Primary species with numerous cultivars"
+            "Cordyline fruticosa is the primary species, but numerous cultivars exist with varying leaf colors and patterns."
         ],
         "synonyms": [
             "Cordyline terminalis",
@@ -343,12 +343,12 @@
             "Good-luck plant"
         ],
         "benefits": [
-            "Ornamental tropical flair",
-            "Air purification",
-            "Cultural and spiritual significance in Polynesia"
+            "Ornamental Use: Adds color and tropical flair to gardens, patios, and indoor spaces. ",
+            "Air Purification: Helps to purify indoor air by removing toxins. ",
+            "Cultural Significance: Holds cultural and spiritual significance in many Polynesian societies, where it's used in ceremonies and traditional medicine. "
         ],
         "lifeSpan": [
-            "Often 10 years or more with proper care"
+            "With proper care, Ti plants can live for many years, often 10 years or more, both indoors and outdoors. "
         ],
         "image_url": "../assets/images/ti-plant.jpg"
     },
@@ -356,7 +356,7 @@
         "id": "QR011",
         "name": "Snake Plant",
         "scientificName": "Dracaena trifasciata",
-        "definition": "A hardy ornamental plant with long upright sword-shaped leaves.",
+        "definition": "A hardy ornamental plant with long upright sword-shaped leaves. ",
         "origin": "West Africa.",
         "scientificClass": [
             "Domain: Eukaryote",
@@ -388,7 +388,7 @@
         "id": "QR012",
         "name": "Mulberry Tree",
         "scientificName": "Morus alba Linn.",
-        "definition": "A fruit-bearing tree producing small sweet edible berries.",
+        "definition": "A fruit-bearing tree that produces small sweet edible berries. ",
         "origin": "Asia.",
         "scientificClass": [
             "Domain: Eukaryote",
@@ -408,9 +408,9 @@
             "Black Mulberry"
         ],
         "benefits": [
-            "Nutritious fruits",
-            "Silkworm rearing (leaves)",
-            "Traditional medicine"
+            "Produces nutritious fruits ",
+            "Leaves used for silkworm rearing ",
+            "Used in traditional medicine "
         ],
         "lifeSpan": [
             "25–50 years"
@@ -421,7 +421,7 @@
         "id": "QR013",
         "name": "Bloodberry",
         "scientificName": "Rivina humilis",
-        "definition": "A tropical American herb with racemes of red berries resembling pokeweed.",
+        "definition": "A tropical American herb with racemes of red berries resembling those of pokeweed. ",
         "origin": "Tropical Americas.",
         "scientificClass": [
             "Domain: Eukaryote",
@@ -441,7 +441,7 @@
         ],
         "benefits": [
             "Ornamental; attracts birds",
-            "Can be used as medicine"
+            "It can be use as a medicine "
         ],
         "lifeSpan": [
             "Short-lived perennial"
@@ -452,8 +452,8 @@
         "id": "QR014",
         "name": "Devil's Backbone",
         "scientificName": "Euphorbia tithymaloides",
-        "definition": "An erect succulent shrub with green zig-zag shaped branches.",
-        "origin": "Native to tropical and subtropical North and Central America.",
+        "definition": "An erect succulent shrub with green, zig-zag shaped branches.",
+        "origin": "Native to tropical and subtropical North America and Central America. ",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -484,8 +484,8 @@
         "id": "QR015",
         "name": "Prickly Pear Cactus",
         "scientificName": "Opuntia ficus-indica",
-        "definition": "A cactus characterized by flat paddle-shaped stems and spiky thorns.",
-        "origin": "Native to Mexico and the Americas.",
+        "definition": "A cactus characterized by flat, paddle-shaped stems and spiky thorns. The prickly pear typically grows with flat, rounded cladodes (also called platyclades). ",
+        "origin": "Native to Mexico. The prickly pear cactus is native to the Americas.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -503,9 +503,10 @@
             "Cactus ficus-indica"
         ],
         "benefits": [
-            "Edible fruits (tunas)",
-            "Drought resistant",
-            "Rich in antioxidants"
+            "Edible fruits (tunas/prickly pears).",
+            "Medicinal uses. ",
+            "Drought resistant. ",
+            "The prickly pear is packed with antioxidants that help protect the body against free radicals, which can cause cell damage and lead to chronic diseases. "
         ],
         "lifeSpan": [
             "Long-lived perennial (20–50 years)"
@@ -516,7 +517,7 @@
         "id": "QR016",
         "name": "Golden Trumpet",
         "scientificName": "Allamanda cathartica",
-        "definition": "A tropical evergreen perennial vine with showy golden-yellow flowers.",
+        "definition": "A tropical, evergreen, perennial vine in the dogbane family (Apocynaceae). It is cultivated for its showy, golden yellow flowers.",
         "origin": "Native to Brazil.",
         "scientificClass": [
             "Domain: Eukaryote",
@@ -535,8 +536,8 @@
             "Allamanda neriifolia"
         ],
         "benefits": [
-            "Ornamental plant",
-            "Traditional medicine (laxative/emetic properties)"
+            "Ornamental",
+            "Used in traditional medicine. Leaves and roots have been used as a laxative and emetic."
         ],
         "lifeSpan": [
             "Perennial shrub or vine"
@@ -547,8 +548,8 @@
         "id": "QR017",
         "name": "Dalandan",
         "scientificName": "Citrus aurantium",
-        "definition": "A small erect tree with smooth greenish-white shoots and spinescent thorns.",
-        "origin": "Southeast Asia, with origins traced to China.",
+        "definition": "Dalandan is a small, erect tree with smooth, greenish white shoots with spinescent thorns.",
+        "origin": "Southeast Asia with origins possibly traced to China.",
         "scientificClass": [
             "Domain: Eukaryote",
             "Kingdom: Plantae",
@@ -560,8 +561,7 @@
             "Species: Citrus aurantium L."
         ],
         "type": [
-            "Bitter Orange",
-            "Dalandan"
+            "Citrus aurantium (Dalandan / Bitter Orange"
         ],
         "synonyms": [
             "Bitter orange",
@@ -569,9 +569,10 @@
             "Sour orange"
         ],
         "benefits": [
-            "Rich in Vitamin C",
-            "Contains antioxidants",
-            "Traditional medicine for colds and fever"
+            "Rich in vitamin C, which helps boost the immune system.",
+            "Contains antioxidants that help fight free radicals. ",
+            "Used in traditional medicine for colds, cough, and fever. ",
+            "Helps improve skin health and wound healing. "
         ],
         "lifeSpan": [
             "30–50 years or more"
@@ -582,7 +583,7 @@
         "id": "QR018",
         "name": "Croton Pictum",
         "scientificName": "Codiaeum variegatum",
-        "definition": "A tropical ornamental plant with thick glossy and brightly colored leaves.",
+        "definition": "A tropical ornamental plant widely known for its thick, glossy, and brightly colored leaves that display combinations of green, yellow, red, orange, and purple. ",
         "origin": "Southeast Asia and Pacific Islands.",
         "scientificClass": [
             "Domain: Eukarya",
@@ -601,9 +602,9 @@
             "Croton variegatum"
         ],
         "benefits": [
-            "Decorative foliage",
-            "Natural garden divider",
-            "Improves aesthetic value"
+            "Decorative foliage; improves aesthetic value ",
+            "Can serve as a natural divider or accent plant in gardens ",
+            "Helps create a calming and visually pleasing environment "
         ],
         "lifeSpan": [
             "Perennial"

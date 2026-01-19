@@ -45,7 +45,7 @@ window.addEventListener("load", () => {
 
             if (DIALOGUE[dialogueCount].speak) {
                 charImage.src = "./assets/images/person2.png"
-                charImage.style.marginRight = "130px"
+                charImage.style.marginRight = "-120px"
                 mouthEl.style.visibility = "visible"
             }
 
