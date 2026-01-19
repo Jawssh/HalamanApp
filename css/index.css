@@ -1,8 +1,6 @@
 .icon-container i {
     font-size: 150px;
-    color: #fdfdfd;
-    cursor: pointer;
-    transition: transform 0.3s;
+    color: #f1f1f1;
 }
 
 input {
@@ -13,6 +11,7 @@ input {
     border: 3px solid;
     border-radius: 5px;
     border-color: #43dba3;
+
 
 }
 

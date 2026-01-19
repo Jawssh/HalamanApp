@@ -30,11 +30,26 @@ window.addEventListener("load", () => {
                 <h2>${result.name} ${result.scientificName ? '(<i>' + result.scientificName + '</i>)' : ""}</h2>
                 <p><strong>Definition:</strong> ${result.definition}</p>
                 <p><strong>Origin:</strong> ${result.origin}</p>
-                <p><strong>Science Classification:</strong> ${result.scientificClass}</p>
-                <p><strong>Type/Species:</strong> ${result.type}</p>
-                <p><strong>Synonyms:</strong> ${result.synonyms}</p>
-                <p><strong>Benefits:</strong> ${result.benefits}</p>
-                <p><strong>Life Span:</strong> ${result.lifeSpan}</p>
+              <p><strong>Scientific Classification:</strong></p>
+                <ul>
+                ${result.scientificClass.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Type/Species:</strong></p>                
+                 <ul>
+                ${result.type.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Synonyms:</strong></p>             
+                 <ul>
+                ${result.synonyms.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Benefits:</strong></p>             
+                <ul>
+                ${result.benefits.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Life Span:</strong></p>
+                  <ul>
+                ${result.lifeSpan.map(item => `<li>${item}</li>`).join("")}
+                </ul>
 
 
             `
