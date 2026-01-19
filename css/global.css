@@ -4,14 +4,31 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Cosmic Sans";
+    src: url("../assets/fonts/Ldfcomicsanslight-6dZo.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cosmic Sans Bold";
+    src: url("../assets/fonts/ComicSans-bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
     background-image: url(../assets/images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
     height: 100vh;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Cosmic Sans", system-ui, sans-serif;
 }
+
 
 .container {
     padding: 0px 20px 0px 20px;
@@ -24,7 +41,7 @@ body {
     gap: 20px;
     background-color: rgb(0, 0, 0);
     /* Fallback color */
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 #welcome-container {
@@ -45,9 +62,9 @@ body {
 
 .heading-container h1 {
     text-align: center;
-    font-weight: 900;
     font-size: 28px;
     color: #f1f1f1;
+    font-family: "Cosmic Sans Bold", system-ui, sans-serif;
 }
 
 

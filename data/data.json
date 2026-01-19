@@ -561,7 +561,7 @@
             "Species: Citrus aurantium L."
         ],
         "type": [
-            "Citrus aurantium (Dalandan / Bitter Orange"
+            "Citrus aurantium (Dalandan / Bitter Orange)"
         ],
         "synonyms": [
             "Bitter orange",
@@ -610,5 +610,70 @@
             "Perennial"
         ],
         "image_url": "../assets/images/croton.jpg"
+    },
+    {
+        "id": "QR019",
+        "name": "Guava",
+        "scientificName": "Psidium guajava",
+        "definition": "The guava is a tropical fruit-bearing shrub or small tree known for its high nutritional value. The fruit is a berry with a characteristic “musky” aroma, containing numerous small, hard seeds embedded in a sweet, pulpy flesh. ",
+        "origin": " It is native to the tropical regions of the Americas, specifically ranging from Mexico and Central America to Northern South America and the Caribbean.",
+        "scientificClass": [
+            "Domain: Eukaryote",
+            "Kingdom: Plantae",
+            "Class: Magnoliopsida",
+            "Order: Myrtales ",
+            "Family: Myrtaceae",
+            "Genus: Psidium",
+            "Species: Psidium guajava"
+        ],
+        "type": [
+            "The type species for the genus Psidium is Psidium guajava L. (Linnaeus). "
+        ],
+        "synonyms": [
+            "Guajava pyrifera",
+            "Guajava pomifera",
+            "Psidium aromaticum",
+            "Psidium pyriferum"
+        ],
+        "benefits": [
+            "High Vitamin C: Contains significantly more Vitamin C than oranges, boosting the immune system.",
+            "Dietary Fiber: Promotes healthy digestion and aids in weight management. ",
+            "Antioxidants: Rich in lycopene and polyphenols which protect cells from oxidative stress. ",
+            "Heart Health: May help lower blood pressure and “bad” LDL cholesterol. ",
+            "Medicinal Leaves: Guava leaves are often boiled into tea to treat diarrhea or used as an antiseptic for wounds. "
+        ],
+        "lifeSpan": [
+            "A guava tree typically lives for 30 to 40 years. While they can live longer, their fruit productivity often begins to decline after 15 to 20 years. Under ideal tropical."
+        ],
+        "image_url": "../assets/images/guava.jpg"
+    },
+    {
+        "id": "QR020",
+        "name": "Bougainvillea",
+        "scientificName": "B. glabra",
+        "definition": "A tropical woody climbing plant known for its vibrant, showy bracts that surround smal, inconspicuous flower.",
+        "origin": "Native to South America, including Mexico, Brazil, Bolivia, Paraguay, Peru, and . Argentina. ",
+        "scientificClass": [
+            "Domain: Eukaryote",
+            "Kingdom: Plantae",
+            "Division: Magnoliophyta",
+            "Class: Magnoliopsida",
+            "Order: Caryophyllales",
+            "Family: Nyctaginaceae",
+            "Genus: Bougainvillea"
+        ],
+        "type": [
+            "There are between 4 and 22 species in the genus. One of the most popular species is Bougainvillea spectabilis."
+        ],
+        "synonyms": [
+            "Synonyms include Tricycla."
+        ],
+        "benefits": [
+            "Bougainvillea is used for ornamental purposes, adding color to gardens, patios, and balconies. They attract pollinators and are relatively low maintenance."
+        ],
+        "lifeSpan": [
+            "With proper care, bougainvilleas can live for 50 years or longer. In winter gardens, they canlive for 20 to 30 years"
+        ],
+        "image_url": "../assets/images/bougainvillea.jpg"
     }
 ]

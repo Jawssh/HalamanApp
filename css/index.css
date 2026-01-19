@@ -89,7 +89,7 @@ button:disabled {
     visibility: hidden;
     position: absolute;
     top: 53px;
-    left: 98px;
+    right: 53px;
     /* transform: translateX(-50%); */
     width: 13px;
     height: 2px;
