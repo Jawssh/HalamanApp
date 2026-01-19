@@ -1,6 +1,7 @@
 let dialogueCount = 0;
 
 window.addEventListener("load", () => {
+    const containerEl = document.querySelector("#container")
     const dialogueContent = document.getElementById("dialogue-content");
     const nextButton = document.getElementById("next-button");
     const charImage = document.getElementById("char-image")
@@ -47,6 +48,7 @@ window.addEventListener("load", () => {
                 charImage.src = "./assets/images/person2.png"
                 charImage.style.marginLeft = "170px"
                 mouthEl.style.visibility = "visible"
+
             }
 
         } else {
@@ -55,6 +57,8 @@ window.addEventListener("load", () => {
     }
 
     function showNextPage() {
+
+        containerEl.style.backgroundColor = "rgba(0, 0, 0, 0)"
         welcomeEl.style.display = "none"
         nextPageEl.style.display = "contents"
     }

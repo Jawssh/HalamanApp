@@ -39,8 +39,6 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    background-color: rgb(0, 0, 0);
-    /* Fallback color */
     background-color: rgba(0, 0, 0, 0.8);
 }
 
