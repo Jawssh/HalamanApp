@@ -1,10 +1,24 @@
+@font-face {
+    font-family: "Cosmic Sans";
+    src: url("../assets/fonts/Ldfcomicsanslight-6dZo.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cosmic Sans Bold";
+    src: url("../assets/fonts/ComicSans-bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
-    /* height: 98vh; */
-    font-family: Arial, sans-serif;
+    font-family: "Cosmic Sans", system-ui, sans-serif;
     padding: 12px;
     background-image: url(../assets/images/infoBg.jpg);
     background-repeat: no-repeat;
-    /* background-size: cover; */
     background-position: center;
 }
 
