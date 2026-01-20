@@ -1,10 +1,16 @@
 body {
+    /* height: 98vh; */
     font-family: Arial, sans-serif;
     padding: 12px;
-    background: linear-gradient(0deg, rgba(242, 241, 241, 1) 0%, rgba(53, 121, 96, 1) 100%);
+    background-image: url(../assets/images/infoBg.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center;
 }
 
 .card {
+    height: 88vh;
+    overflow-y: scroll;
     max-width: 400px;
     margin: auto;
     border: 1px solid #cccccc5c;
@@ -22,6 +28,10 @@ ul {
 
 /* Responsive breakpoints (empty by default) */
 @media (max-width: 1200px) {
+    body {
+        background-size: fill;
+    }
+
     /* Large tablets / small laptops */
 }
 
