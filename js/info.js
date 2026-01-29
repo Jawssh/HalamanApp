@@ -27,28 +27,26 @@ window.addEventListener("load", () => {
 
             document.getElementById("info").innerHTML = `
                 <img src="${result.image_url}"/>
-                <h2>${result.name} ${result.scientificName ? '(<i>' + result.scientificName + '</i>)' : ""}</h2>
-                <p><strong>Definition:</strong> ${result.definition}</p>
-                <p><strong>Origin:</strong> ${result.origin}</p>
-              <p><strong>Scientific Classification:</strong></p>
+                <center><h2>${result.name} ${result.scientificName ? '(<i>' + result.scientificName + '</i>)' : ""}</h2></center>
+              <p><strong>Local Name (In Philippines):</strong></p>
                 <ul>
-                ${result.scientificClass.map(item => `<li>${item}</li>`).join("")}
+                ${result.localName.map(item => `<li>${item}</li>`).join("")}
                 </ul>
-                <p><strong>Type/Species:</strong></p>                
+                <p><strong>Benefits:</strong></p>                
                  <ul>
-                ${result.type.map(item => `<li>${item}</li>`).join("")}
-                </ul>
-                <p><strong>Synonyms:</strong></p>             
-                 <ul>
-                ${result.synonyms.map(item => `<li>${item}</li>`).join("")}
-                </ul>
-                <p><strong>Benefits:</strong></p>             
-                <ul>
                 ${result.benefits.map(item => `<li>${item}</li>`).join("")}
                 </ul>
-                <p><strong>Life Span:</strong></p>
+                <p><strong>Medical Use:</strong></p>             
+                 <ul>
+                ${result.medicalUse.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Ornamental Use:</strong></p>             
+                <ul>
+                ${result.ornamentalUse.map(item => `<li>${item}</li>`).join("")}
+                </ul>
+                <p><strong>Propagation:</strong></p>
                   <ul>
-                ${result.lifeSpan.map(item => `<li>${item}</li>`).join("")}
+                ${result.propagation.map(item => `<li>${item}</li>`).join("")}
                 </ul>
 
 

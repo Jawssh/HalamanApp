@@ -3,36 +3,30 @@
         "id": "QR001",
         "name": "Areca Palm",
         "scientificName": "Dypsis",
-        "definition": "Dypsis lutescens is a clumping, tropical palm tree known for its slender, arching fronds with feathery leaflets and yellowish stems. It’s widely grown as an ornamental plant for indoor decor and outdoor landscaping in warm climates. ",
-        "origin": "Native to Madagascar (eastern and northwestern regions); it has been naturalized in parts of Southeast Asia, Australia, and the Caribbean.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Liliopsida (Monocotyledons)",
-            "Order: Arecales",
-            "Family: Arecaceae (Palm family)",
-            "Genus: Dypsis",
-            "Species: D. lutescens"
-        ],
-        "type": [
-            "The type species of the genus Dypsis is Dypsis pinnatifrons (not D. lutescens). D. lutescens is a prominent species within the genus but not the type."
-        ],
-        "synonyms": [
-            "Chrysalidocarpus lutescens H.Wendl. (most common former name)",
-            "Areca lutescens (H.Wendl.) Baill.",
-            "Neodypsis lutescens (H.Wendl.) Beentje & J.Dransf."
+        "localName": [
+            "Areca Palm",
+            "Golden Cane Palm",
+            "Butterfly Palm",
+            "Yellow Palm"
         ],
         "benefits": [
-            "Air purification: Removes formaldehyde, benzene, and trichloroethylene (per NASA’s clean air study).",
-            "Ornamental value: Enhances indoor/outdoor aesthetics with its lush, tropical look.",
-            "Humidity regulation: Adds moisture to indoor air.",
-            "Non-toxic: Safe for cats and dogs (per ASPCA).",
-            "Soil stabilization: Helps prevent erosion in outdoor plantings."
+            "Air purification",
+            "Humidity regulation",
+            "Non-toxic",
+            "Soil stabilization"
         ],
-        "lifeSpan": [
-            "Indoor: Typically 10–20 years with proper care (bright light, regular watering, well-drained soil).",
-            "Outdoor (tropical climates): Can live 20–50 years or more, forming large, dense clumps over time."
+        "medicalUse": [
+            "No significant medicinal use",
+            "Mainly grown for ornamental and environmental purposes, not for herbal medicine "
+        ],
+        "ornamentalUse": [
+            "Feathery, arching fronds give a tropical and elegant appearance",
+            "Suitable for pots, patios, and garden borders"
+        ],
+        "propagation": [
+            "Division and seeds",
+            "Separating clumps or suckers from mature plants",
+            "Can also be grown from seeds, though growth is slow"
         ],
         "image_url": "../assets/images/areca-palm.jpg"
     },
@@ -40,71 +34,57 @@
         "id": "QR002",
         "name": "Aloe vera (L.) Burm. F.",
         "scientificName": "",
-        "definition": "Aloe vera is a stemless or short-stemmed succulent plant in the Asphodelaceae family, known for its thick, fleshy, serrated leaves that contain a gel-rich in bioactive compounds. It’s widely cultivated for medicinal, cosmetic, and ornamental use.",
-        "origin": "Native to the Arabian Peninsula; it grows wild in tropical, subtropical, and arid regions worldwide and is naturalized in many areas (considered invasive in some). Historical records link its use to ancient Mesopotamia, Egypt, and Greece.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Liliopsida",
-            "Order: Asparagales",
-            "Family: Asphodelaceae",
-            "Genus: Aloe",
-            "Species: A. vera"
-        ],
-        "type": [
-            "The type species of the genus Aloe is Aloe perfoliata (not A. vera). A. vera is a well-known species but not the type"
-        ],
-        "synonyms": [
-            "Aloe barbadensis Mill.",
-            "Aloe indica Royle",
-            "Aloe vulgaris Lam.",
-            "Aloe chinensis (Haw.) Baker",
-            "Aloe perfoliata var. vera L.",
-            "Aloe flava Pers."
+        "localName": [
+            "Sabila"
         ],
         "benefits": [
-            "Topical use: Soothes sunburns, skin irritation, rashes, and minor wounds; moisturizes skin and promotes healing.",
-            "Hair care: Nourishes scalp, reduces dandruff, and strengthens hair.",
-            "Internal use (with caution): Aids digestion, may regulate blood sugar (consult a doctor first), and provides antioxidants.",
-            "Ornamental: Easy to grow indoors as a potted plant."
+            "Soothes sunburns, skin irritation, rashes, and minor wounds; moisturizes skin and promotes healing. ",
+            "Nourishes scalp, reduces dandruff, and strengthens hair. ",
+            "Internal use (with caution): Aids digestion, may regulate blood sugar, and provides antioxidants."
         ],
-        "lifeSpan": [
-            "Indoor/outdoor: With proper care (well-drained soil, bright light, moderate watering), it can live 20 years or more. In ideal tropical conditions, some plants survive decades."
+        "medicalUse": [
+            "Skin treatment",
+            "Hair Care",
+            "Digestive aid",
+            "Anti-inflammatory",
+            "Antimicrobial"
+        ],
+        "ornamentalUse": [
+            "Attractive succulent with thick green leaves",
+            "Low maintenance and drought-tolerant",
+            "Commonly used as an indoor and outdoor decorative plant"
+        ],
+        "propagation": [
+            "Vegetative propagation",
+            "Through offsets or “pups” that grow at the base of the parent plant",
+            "Pups are removed and planted in well-drained soil"
         ],
         "image_url": "../assets/images/aloe-vera.jpg"
     },
     {
         "id": "QR003",
-        "name": "Madagascar periwinkle",
-        "scientificName": "Catharanthus roseus",
-        "definition": "Madagascar periwinkle is an evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae). It is native to Madagascar but has naturalized in warm areas around the world. The species epithet means 'pink.' ",
-        "origin": "Native to the island of Madagascar.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae-Plants",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Gentianales",
-            "Family: Apocynaceae Juss. - Dogbane family",
-            "Genus: Catharanthus G. Don - periwinkle",
-            "Species: Catharanthus roseus (L.) G. Don - Madagascar periwinkle"
-        ],
-        "type": [
-            "evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae)"
-        ],
-        "synonyms": [
-            "Vinca rosea",
-            "Acokanthera rosea",
-            "Lochnera rosea"
+        "name": "Madagascar periwingkle",
+        "scientificName": "Catharanthus roseus (L.) G. Don",
+        "localName": [
+            "Chichirica",
+            "Tsitsirika"
         ],
         "benefits": [
-            "European herbalists have used periwinkle for headaches, vertigo, and poor memory since medieval times. ",
-            "Source of anti-cancer medicines vinblastine, vincristine and vinorelbine which are used in chemotherapy. ",
-            "Antioxidant activity, which helps protect against environmental stress and cellular damage."
+            "Air Purification.",
+            "Educational Value widely studied for its medicinal compounds, especially in cancer research.",
+            "Scientific use contains alkaloids such as vincristine and vinblastine."
         ],
-        "lifeSpan": [
-            "Perennial, but often grown as an annual or semi-annual plant depending on climate and maintenance. "
+        "medicalUse": [
+            "Leaf decoctions are sometimes used for diabetes, high blood pressure, and wound cleaning.",
+            "Used in modern medicine to treat certain types of cancer, including leukemia and lymphoma."
+        ],
+        "ornamentalUse": [
+            "Popular for its small but bright flowers in pink, white, red, and purple shades.",
+            "Used as ground cover, garden borders, and potted plants."
+        ],
+        "propagation": [
+            "Grown from seeds or stem cuttings.",
+            "Seeds are sown in well-drained soil, while cuttings root easily in moist soil."
         ],
         "image_url": "../assets/images/madagascar-periwinkle.jpg"
     },
@@ -112,33 +92,29 @@
         "id": "QR004",
         "name": "False Ashoka Tree",
         "scientificName": "Polyalthia longifolia",
-        "definition": " A tall, evergreen tree known for its slender, columnar growth habit and wavy-edged leaves.",
-        "origin": "Native to India and Sri Lanka.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Magnoliales",
-            "Family: Annonaceae",
-            "Genus: Polyalthia",
-            "Species: P. longifolia"
-        ],
-        "type": [
-            "Polyalthia longifolia"
-        ],
-        "synonyms": [
+        "localName": [
+            "Indian Tree",
+            "False Ashoka",
             "Mast Tree",
-            "Indian Mast Tree",
-            "Uvaria longifolia"
+            "Buddha tree",
+            "Indian fir tree"
         ],
         "benefits": [
-            "Ornamental tree for landscaping, especially in urban areas.",
-            "Acts as a natural sound barrier and windbreak.",
-            "Provides shade due to its dense foliage."
+            "Dust and air pollution are reduced by the use of air filtering systems.",
+            "Sound mitigation as a natural sound barrier, thick leaves lower noise levels.",
+            "Used along roads and schools to deflect strong winds.",
+            "Used as privacy barriers or screen planting."
         ],
-        "lifeSpan": [
-            "50–70 years with proper care."
+        "medicalUse": [
+            "Leaves and bark are used for fighting bacteria and fungi, or for treating fever, diabetes symptoms, high blood pressure, and even intestinal worms, especially in Ayurvedic practices. "
+        ],
+        "ornamentalUse": [
+            "Tall, narrow, and grow symmetrically. ",
+            "Enhance the look of gardens, parks, and roadsides.",
+            "Grow in a more or less upright and uniform manner and their growth habit is dense."
+        ],
+        "propagation": [
+            "Through stem cuttings or air layering."
         ],
         "image_url": "../assets/images/false-ashoka.jpg"
     },
@@ -146,38 +122,22 @@
         "id": "QR005",
         "name": "Ramgoat Dashalong",
         "scientificName": "Turnera ulmifolia L.",
-        "definition": "Turnera ulmifolia is a perennial, woody herb or erect shrub in the Passifloraceae (formerly Turneraceae) family. It’s recognized by its lanceolate/ovate serrated leaves and bright yellow, star-shaped flowers that open in the morning and close by afternoon. It’s valued for ornamental and medicinal uses.",
-        "origin": "Native to the Caribbean basin, Mexico, Central America, and South America (from Mexico to Argentina). It’s naturalized in tropical/subtropical regions worldwide (e.g., Southeast Asia, Australia, Florida) and is invasive in some areas like New Caledonia.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Tracheophyta",
-            "Class: Magnoliopsida (Dicot)",
-            "Order: Malpighiales",
-            "Family: Passifloraceae (subfamily Turneroideae) ",
-            "Genus: Turnera",
-            "Species: T. ulmifolia"
-        ],
-        "type": [
-            "The type species of the genus Turnera is Turnera diffusa (not T. ulmifolia). ",
-            "T. ulmifolia is a prominent species but not the type. "
-        ],
-        "synonyms": [
-            "Turnera alba Liebm. ",
-            "Turnera angustifolia Mill. ",
-            "Turnera chamaedrys Klotzsch ",
-            "Turnera cistoides Baill. ",
-            "Turnera corchoroides Klotzsch ",
-            "Turnera peruviana Willd. ex Roem. & Schult. ",
-            "Turnera velutina C. Presl "
+        "localName": [
+            "Yellow alder",
+            "Yellow elder"
         ],
         "benefits": [
-            "Ornamental: Bright, long-blooming flowers for borders, ground cover, or tropical gardens; attracts butterflies and bees. ",
-            "Medicinal: Used traditionally as an expectorant, digestive aid, and to relieve menstrual cramps, rheumatism, wounds, and headaches. Extracts may have antimicrobial properties and potentiate antibiotics against resistant bacteria (e.g., MRSA). ",
-            "Drought-tolerant: Adaptable to dry, disturbed sites. "
+            "Ornamental value dried leaves used for tea, flavoring.",
+            "Traditional medicinal uses for various ailments."
         ],
-        "lifeSpan": [
-            "Perennial (lives multiple years). In tropical climates, it can persist 5–15 years or more with proper care (full sun/partial shade, well-drained soil). As an annual in temperate regions, it grows for one season but self-seeds readily. "
+        "medicalUse": [
+            "Traditionally used for sexual dysfunction, menopause symptoms, colds, fever, anxiety, digestive issues, and as an expectorant/antidiabetic."
+        ],
+        "ornamentalUse": [
+            "Features showy, five-petaled yellow flowers that bloom year-round (each flower lasts one day). Can be used as ground cover, border, or foundation plant; attracts butterflies."
+        ],
+        "propagation": [
+            "From seeds sown in well-drained soil, or stem cuttings rooted in warm, moist conditions with indirect light."
         ],
         "image_url": "../assets/images/ramgoat-dashalong.jpg"
     },
@@ -185,33 +145,24 @@
         "id": "QR006",
         "name": "Rubber Fig",
         "scientificName": "Ficus elastica",
-        "definition": "A large tropical evergreen tree or ornamental houseplant known for its thick, glossy leaves that produce a milky latex used in making natural rubber. ",
-        "origin": "Native to Southeast Asia, particularly India, Nepal, Myanmar, and Indonesia. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Rosales",
-            "Family: Moraceae",
-            "Genus: Ficus",
-            "Species: F. elastica"
-        ],
-        "type": [
-            "Ficus elastica"
-        ],
-        "synonyms": [
-            "Rubber Tree",
-            "Indian Rubber Fig",
-            "Rubber Bush"
+        "localName": [
+            "Rubber tree",
+            "Indian rubber plant"
         ],
         "benefits": [
-            "Acts as a natural air purifier by removing indoor toxins. ",
-            "Improves oxygen and humidity levels indoors. ",
-            "Popular ornamental plant for homes and offices. "
+            "Air Purification.",
+            "Its large green leaves help create a calming indoor environment."
         ],
-        "lifeSpan": [
-            "20–50 years or more with proper care"
+        "medicalUse": [
+            "Traditional applications In some cultures, plant sap and leaves are used externally for skin problems and minor wounds."
+        ],
+        "ornamentalUse": [
+            "Popular for its large, glossy, dark-green leaves that enhance interior spaces.",
+            "Used as an indoor houseplant or outdoor ornamental tree in tropical areas."
+        ],
+        "propagation": [
+            "Through stem cuttings or air layering. ",
+            "Cuttings are rooted in moist, well-drained soil."
         ],
         "image_url": "../assets/images/rubber-fig.jpg"
     },
@@ -219,33 +170,26 @@
         "id": "QR007",
         "name": "Song of India",
         "scientificName": "Dracaena reflexa",
-        "definition": "A tropical evergreen shrub known for its glossy, lance-shaped leaves arranged spirally around the stem. It is a popular ornamental houseplant valued for its attractive foliage and air-purifying qualities. ",
-        "origin": "Native to Madagascar, Mauritius, and nearby islands in the Indian Ocean.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Liliopsida",
-            "Order: Asparagales",
-            "Family: Asparagaceae",
-            "Genus: Dracaena",
-            "Species: Dracaena reflexa"
-        ],
-        "type": [
-            "Dracaena reflexa is one of several species in the Dracaena genus. ",
-            "Popular varieties include Dracaena reflexa var. angustifolia (commonly called the Song of India) and Dracaena reflexa var. reflexa (Song of Jamaica)."
-        ],
-        "synonyms": [
-            "Commonly referred to as Pleomele reflexa in older classifications."
+        "localName": [
+            "Song of India",
+            "Pleomele"
         ],
         "benefits": [
-            "Purifies indoor air by removing toxins such as formaldehyde and xylene",
-            "Enhances interior aesthetics with its lush, tropical appearance ",
-            "Easy to care for and tolerant of low light conditions ",
-            "Used in feng shui and indoor décor to promote tranquility and balance  "
+            "Valuable ornamental foliage plant with attractive variegation.",
+            "Helps improve indoor air quality by removing pollutants. ",
+            "Low maintenance and drought-tolerant."
         ],
-        "lifeSpan": [
-            "With proper care, Dracaena reflexa can live 10 to 15 years indoors, and even longer in ideal tropical outdoor conditions. "
+        "medicalUse": [
+            "Leaf/stem extracts are used for minor ailments like cuts and inflammation.",
+            "Alleviating coughs or respiratory irritation."
+        ],
+        "ornamentalUse": [
+            "Used as a decorative indoor and outdoor plant.",
+            "Elegant vertical growth and striking variegated leaves."
+        ],
+        "propagation": [
+            "Best for stem cuttings in soil or water.",
+            "Air-layering for larger specimens."
         ],
         "image_url": "../assets/images/song-of-india.jpg"
     },
@@ -253,33 +197,26 @@
         "id": "QR008",
         "name": "West Indian Jasmine",
         "scientificName": "Ixora coccinea",
-        "definition": "A flowering tropical shrub known for its bright red, pink, or orange flower clusters. ",
-        "origin": "Native to Southern India and Sri Lanka; now common in tropical regions. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Gentianales",
-            "Family: Rubiaceae",
-            "Genus: Ixora",
-            "Species: I. coccinea"
-        ],
-        "type": [
-            "Ixora coccinea"
-        ],
-        "synonyms": [
-            "Ixora",
-            "Jungle Geranium",
-            "Flame of the Woods"
+        "localName": [
+            "Santan",
+            "Santan-pula (red ixora)"
         ],
         "benefits": [
-            "Ornamental for landscaping. ",
-            "Used in traditional medicine for wounds and skin infections. ",
-            "Attracts butterflies and pollinators. "
+            "Bright clusters of flowers add ornamental beauty to gardens",
+            "Attracts pollinators such as bees and butterflies"
         ],
-        "lifeSpan": [
-            "10–15 years with proper care. "
+        "medicalUse": [
+            "Use as a sedative for nausea or loss of appetite",
+            "Leaves and flowers used for skin issues and sores",
+            "Leaf infusions are used to treat diarrhea and ulcers"
+        ],
+        "ornamentalUse": [
+            "Popular hedge and garden shrub with dense, showy blooms",
+            "Flowers available in red, pink, yellow and other cultivars"
+        ],
+        "propagation": [
+            "Propagated via stem cuttings or seeds",
+            "Best planted in well-drained soil with regular moisture"
         ],
         "image_url": "../assets/images/ixora.jpg"
     },
@@ -287,35 +224,28 @@
         "id": "QR009",
         "name": "Aratiles Tree",
         "scientificName": "Muntingia calabura",
-        "definition": "A fast-growing tropical fruit tree known for its small, sweet red berries.",
-        "origin": "Native to Southern Mexico, Central and South America. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta ( Angiosperms) ",
-            "Class: Magnoliopsida ( Dicotylesons) ",
-            "Order: Malvales",
-            "Family: Muntingiaceae",
-            "Genus: Muntingia",
-            "Species: M. calabura"
-        ],
-        "type": [
-            "Muntingia calabura (only species in its genus) "
-        ],
-        "synonyms": [
+        "localName": [
             "Aratiles",
-            "Sarisa",
-            "Alatiris",
             "Mansanitas",
-            "Jamaican Cherry"
+            "Calabur tree"
         ],
         "benefits": [
-            "Fruits are edible and sweet. ",
-            "Provides shade and attracts birds. ",
-            "Used in traditional medicine for pain and inflammation. "
+            "Provides sweet edible fruit enjoyed fresh or in jams",
+            "Fast-growing shade tree for gardens and streets",
+            "Attracts birds and wildlife with nectar and fruit"
         ],
-        "lifeSpan": [
-            " Around 20–40 years under good conditions. "
+        "medicalUse": [
+            "Leaves used for tea to alleviate headaches and inflammation",
+            "Flowers and bark used as antiseptic agents",
+            "Sometimes used for respiratory issues and antidiarrheal purposes"
+        ],
+        "ornamentalUse": [
+            "Attractive small tree with delicate white flowers and bright red berries",
+            "Common in tropical gardens and along roadsides"
+        ],
+        "propagation": [
+            "Easily propagated from seeds with high germination rates",
+            "Can also grow from cuttings in suitable soil"
         ],
         "image_url": "../assets/images/aratiles.jpg"
     },
@@ -323,32 +253,33 @@
         "id": "QR010",
         "name": "Ti Plant",
         "scientificName": "Cordyline fruticosa",
-        "definition": " The Ti plant, or Cordyline fruticosa, is an evergreen shrub prized for its vibrant, colorful foliage. It's often used as an ornamental plant, both indoors and outdoors, in tropical and subtropical climates. ",
-        "origin": "Native to Southeast Asia, Eastern Australia, and the Pacific Islands. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Liliopsida",
-            "Order: Asparagales",
-            "Family: Asparagaceae",
-            "Genus: Cordyline"
-        ],
-        "type": [
-            "Cordyline fruticosa is the primary species, but numerous cultivars exist with varying leaf colors and patterns."
-        ],
-        "synonyms": [
-            "Cordyline terminalis",
-            "Dracaena terminalis",
-            "Good-luck plant"
+        "localName": [
+            "Baston ni San Jose",
+            "Sagilala",
+            "Kilála",
+            "Ti-as"
         ],
         "benefits": [
-            "Ornamental Use: Adds color and tropical flair to gardens, patios, and indoor spaces. ",
-            "Air Purification: Helps to purify indoor air by removing toxins. ",
-            "Cultural Significance: Holds cultural and spiritual significance in many Polynesian societies, where it's used in ceremonies and traditional medicine. "
+            "Air Purification",
+            "Resilient and Adaptable for indoor and outdoor growing"
         ],
-        "lifeSpan": [
-            "With proper care, Ti plants can live for many years, often 10 years or more, both indoors and outdoors. "
+        "medicalUse": [
+            "Can help lower fever",
+            "Used to relieve muscle/nerve aches, headache, sore throat, and arthritis",
+            "Used for swelling, infections, eczema, and wounds",
+            "Used for dysentery and toothaches",
+            "Sometimes used to treat filariasis, gastrointestinal issues, and as a diuretic"
+        ],
+        "ornamentalUse": [
+            "Landscaping & Garden Design",
+            "Container Gardening",
+            "Indoor Accent",
+            "Cut Foliage/Floral Design",
+            "Foliage Color Variations"
+        ],
+        "propagation": [
+            "Through stem cuttings or division",
+            "Best done in spring or early summer; roots form within 2-6 weeks"
         ],
         "image_url": "../assets/images/ti-plant.jpg"
     },
@@ -356,31 +287,31 @@
         "id": "QR011",
         "name": "Snake Plant",
         "scientificName": "Dracaena trifasciata",
-        "definition": "A hardy ornamental plant with long upright sword-shaped leaves. ",
-        "origin": "West Africa.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Liliopsida",
-            "Order: Asparagales",
-            "Family: Asparagaceae",
-            "Genus: Dracaena",
-            "Species: D. trifasciata"
-        ],
-        "type": [
-            "Dracaena trifasciata"
-        ],
-        "synonyms": [
-            "Mother-in-Law's Tongue",
-            "Sansevieria"
+        "localName": [
+            "Espada plant"
         ],
         "benefits": [
-            "Air-purifying plant",
-            "Low maintenance indoor plant"
+            "Air Purification",
+            "Nighttime Oxygen Production",
+            "Mental Health Boost",
+            "Reduces Allergies",
+            "Low maintenance and Durable"
         ],
-        "lifeSpan": [
-            "Perennial"
+        "medicalUse": [
+            "Leaf sap is used to treat burns, skin cuts, sores, and inflammation",
+            "Support standard blood pressure",
+            "Help strengthen the immune system",
+            "Help flush out parasites",
+            "Relieve headaches"
+        ],
+        "ornamentalUse": [
+            "Modern Aesthetic",
+            "Space Saving Structure",
+            "Versatile Varieties"
+        ],
+        "propagation": [
+            "Through leaf cutting or, more effectively, by dividing the rhizomes",
+            "Best done in spring or summer via division, water, or soil cuttings"
         ],
         "image_url": "../assets/images/snake-plant.jpg"
     },
@@ -388,32 +319,26 @@
         "id": "QR012",
         "name": "Mulberry Tree",
         "scientificName": "Morus alba Linn.",
-        "definition": "A fruit-bearing tree that produces small sweet edible berries. ",
-        "origin": "Asia.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Rosales",
-            "Family: Moraceae",
-            "Genus: Morus",
-            "Species: M. alba / M. nigra"
-        ],
-        "type": [
-            "Morus species"
-        ],
-        "synonyms": [
-            "White Mulberry",
-            "Black Mulberry"
+        "localName": [
+            "Amoras"
         ],
         "benefits": [
-            "Produces nutritious fruits ",
-            "Leaves used for silkworm rearing ",
-            "Used in traditional medicine "
+            "Fruits are rich in vitamin C, antioxidants, and minerals",
+            "Support heart health, boost immunity, and aid cognitive function",
+            "Leaves can be made into tea to help regulate blood sugar and cholesterol"
         ],
-        "lifeSpan": [
-            "25–50 years"
+        "medicalUse": [
+            "Used to treat dry skin, improve circulation, and lower uric acid",
+            "Nourish the liver and enhance eyesight",
+            "Potential effects against cancer, aging, and inflammation"
+        ],
+        "ornamentalUse": [
+            "Features lush foliage, spring blooms, and colorful fruits",
+            "Can be shaped into hedges or used as shade trees",
+            "Attracts birds and pollinators"
+        ],
+        "propagation": [
+            "Hardwood or semi-hardwood cuttings during late winter to early spring"
         ],
         "image_url": "../assets/images/mulberry.jpg"
     },
@@ -421,62 +346,57 @@
         "id": "QR013",
         "name": "Bloodberry",
         "scientificName": "Rivina humilis",
-        "definition": "A tropical American herb with racemes of red berries resembling those of pokeweed. ",
-        "origin": "Tropical Americas.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Caryophyllales",
-            "Family: Phytolaccaceae",
-            "Genus: Rivina",
-            "Species: R. humilis"
-        ],
-        "type": [
-            "Rivina humilis"
-        ],
-        "synonyms": [
-            "Rivina laevis"
+        "localName": [
+            "Pigeon berry"
         ],
         "benefits": [
-            "Ornamental; attracts birds",
-            "It can be use as a medicine "
+            "Has anti-inflammatory, antioxidant, and antimicrobial properties",
+            "Soothes inflammation and reduces pain",
+            "Supports digestive wellness and promotes skin healing"
         ],
-        "lifeSpan": [
-            "Short-lived perennial"
+        "medicalUse": [
+            "Leaves treat wounds",
+            "Supports women's reproductive health",
+            "Addresses skin conditions like rashes, cuts, and bruises",
+            "Relieves headache, joint, and muscle pain"
+        ],
+        "ornamentalUse": [
+            "Lush green leaves with tiny pink-white flowers and brilliant red berries",
+            "Suitable for borders and shady spots under trees",
+            "Attracts birds, butterflies, and bees"
+        ],
+        "propagation": [
+            "Seeds and stem cuttings",
+            "Cuttings root easily in moist soil or water"
         ],
         "image_url": "../assets/images/bloodberry.jpg"
     },
     {
         "id": "QR014",
-        "name": "Devil's Backbone",
+        "name": "Devil's Backbone / Zigzag Plant",
         "scientificName": "Euphorbia tithymaloides",
-        "definition": "An erect succulent shrub with green, zig-zag shaped branches.",
-        "origin": "Native to tropical and subtropical North America and Central America. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Malpighiales",
-            "Family: Euphorbiaceae",
-            "Genus: Euphorbia",
-            "Species: E. tithymaloides"
-        ],
-        "type": [
-            "Euphorbia antiquorum"
-        ],
-        "synonyms": [
-            "Pedilanthus tithymaloides",
-            "Zigzag Plant"
+        "localName": [
+            "Luhang Dalaga",
+            "Luha",
+            "Urong"
         ],
         "benefits": [
-            "Ornamental plant",
-            "Used in traditional medicine (with caution)"
+            "Sap has anti-inflammatory and analgesic properties",
+            "Helps purify air",
+            "Low maintenance"
         ],
-        "lifeSpan": [
-            "Perennial; can live many years"
+        "medicalUse": [
+            "Used topically for wounds, burns, and skin irritations",
+            "Treats muscle/joint pain and fungal infections",
+            "Used in some cultures for respiratory issues and as a diuretic"
+        ],
+        "ornamentalUse": [
+            "Valued for its unique zigzag stems and glossy leaves",
+            "Suitable for containers, rock gardens, and indoor spaces"
+        ],
+        "propagation": [
+            "Can be propagated by stem cuttings",
+            "Cuttings should dry for a few days before planting"
         ],
         "image_url": "../assets/images/devils-backbone.jpg"
     },
@@ -484,32 +404,26 @@
         "id": "QR015",
         "name": "Prickly Pear Cactus",
         "scientificName": "Opuntia ficus-indica",
-        "definition": "A cactus characterized by flat, paddle-shaped stems and spiky thorns. The prickly pear typically grows with flat, rounded cladodes (also called platyclades). ",
-        "origin": "Native to Mexico. The prickly pear cactus is native to the Americas.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Caryophyllales",
-            "Family: Cactaceae",
-            "Genus: Opuntia",
-            "Species: O. ficus-indica"
-        ],
-        "type": [
-            "Opuntia humifusa"
-        ],
-        "synonyms": [
-            "Cactus ficus-indica"
+        "localName": [
+            "Nopal",
+            "Tuna cactus"
         ],
         "benefits": [
-            "Edible fruits (tunas/prickly pears).",
-            "Medicinal uses. ",
-            "Drought resistant. ",
-            "The prickly pear is packed with antioxidants that help protect the body against free radicals, which can cause cell damage and lead to chronic diseases. "
+            "Air Purification",
+            "Highly drought-resistant and helps prevent soil erosion"
         ],
-        "lifeSpan": [
-            "Long-lived perennial (20–50 years)"
+        "medicalUse": [
+            "Cactus pads used to help manage blood sugar levels and treat wounds",
+            "Reduces inflammation",
+            "Rich in fiber and antioxidants that support digestion and heart health"
+        ],
+        "ornamentalUse": [
+            "Unique spiny appearance and bright flowers or fruits",
+            "Used in rock gardens and decorative pots"
+        ],
+        "propagation": [
+            "Through pads (cuttings)",
+            "Mature pads are dried for a few days then planted in well-drained soil"
         ],
         "image_url": "../assets/images/prickly-pear.jpg"
     },
@@ -517,65 +431,53 @@
         "id": "QR016",
         "name": "Golden Trumpet",
         "scientificName": "Allamanda cathartica",
-        "definition": "A tropical, evergreen, perennial vine in the dogbane family (Apocynaceae). It is cultivated for its showy, golden yellow flowers.",
-        "origin": "Native to Brazil.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Gentianales",
-            "Family: Apocynaceae",
-            "Genus: Allamanda",
-            "Species: A. cathartica"
-        ],
-        "type": [
-            "Allamanda cathartica"
-        ],
-        "synonyms": [
-            "Allamanda neriifolia"
+        "localName": [
+            "Yellow Bell"
         ],
         "benefits": [
-            "Ornamental",
-            "Used in traditional medicine. Leaves and roots have been used as a laxative and emetic."
+            "Adds visual appeal to landscapes",
+            "Attracts pollinators like bees and butterflies",
+            "Drought-tolerant"
         ],
-        "lifeSpan": [
-            "Perennial shrub or vine"
+        "medicalUse": [
+            "Used as laxative/emetic",
+            "Treats malaria, jaundice, wounds, and headaches"
+        ],
+        "ornamentalUse": [
+            "Features bright golden-yellow trumpet-shaped flowers",
+            "Can be trained as a vine or shrub"
+        ],
+        "propagation": [
+            "Best propagated in spring via semi-hardwood stem cuttings"
         ],
         "image_url": "../assets/images/golden-trumpet.jpg"
     },
     {
         "id": "QR017",
-        "name": "Dalandan",
+        "name": "Sour Orange",
         "scientificName": "Citrus aurantium",
-        "definition": "Dalandan is a small, erect tree with smooth, greenish white shoots with spinescent thorns.",
-        "origin": "Southeast Asia with origins possibly traced to China.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Sapindales",
-            "Family: Rutaceae",
-            "Genus: Citrus",
-            "Species: Citrus aurantium L."
-        ],
-        "type": [
-            "Citrus aurantium (Dalandan / Bitter Orange)"
-        ],
-        "synonyms": [
-            "Bitter orange",
-            "Seville orange",
-            "Sour orange"
+        "localName": [
+            "Dalandan",
+            "Kahel",
+            "Philippine Orange"
         ],
         "benefits": [
-            "Rich in vitamin C, which helps boost the immune system.",
-            "Contains antioxidants that help fight free radicals. ",
-            "Used in traditional medicine for colds, cough, and fever. ",
-            "Helps improve skin health and wound healing. "
+            "High Vitamin C content for immune support",
+            "Bioflavonoids provide anti-inflammatory and antioxidant activities",
+            "Aids digestion and mildly suppresses appetite"
         ],
-        "lifeSpan": [
-            "30–50 years or more"
+        "medicalUse": [
+            "Relieving indigestion, gas, or minor constipation",
+            "Peels used for antiseptic and antimicrobial qualities",
+            "Used to treat skin diseases and general cleansing"
+        ],
+        "ornamentalUse": [
+            "Small evergreen citrus with white flowers and dark green leaves",
+            "Used in home gardens"
+        ],
+        "propagation": [
+            "Grafting to fruit trees",
+            "Seeds take a few weeks to sprout in warm conditions"
         ],
         "image_url": "../assets/images/dalandan.jpg"
     },
@@ -583,31 +485,25 @@
         "id": "QR018",
         "name": "Croton Pictum",
         "scientificName": "Codiaeum variegatum",
-        "definition": "A tropical ornamental plant widely known for its thick, glossy, and brightly colored leaves that display combinations of green, yellow, red, orange, and purple. ",
-        "origin": "Southeast Asia and Pacific Islands.",
-        "scientificClass": [
-            "Domain: Eukarya",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Malpighiales",
-            "Family: Euphorbiaceae",
-            "Genus: Codiaeum",
-            "Species: C. variegatum"
-        ],
-        "type": [
-            "Codiaeum variegatum"
-        ],
-        "synonyms": [
-            "Croton variegatum"
+        "localName": [
+            "Mayana"
         ],
         "benefits": [
-            "Decorative foliage; improves aesthetic value ",
-            "Can serve as a natural divider or accent plant in gardens ",
-            "Helps create a calming and visually pleasing environment "
+            "Air Purification helps filter indoor air toxins",
+            "Used in local traditions for decorative purposes during festivals"
         ],
-        "lifeSpan": [
-            "Perennial"
+        "medicalUse": [
+            "Leaf extracts used topically for skin rashes and wounds",
+            "Roots used for digestive issues",
+            "Potential anti-inflammatory and antimicrobial properties"
+        ],
+        "ornamentalUse": [
+            "Colorful leaves in shades of red, orange, yellow, and purple",
+            "Used as hedges, accent shrubs, or potted plants"
+        ],
+        "propagation": [
+            "Stem cuttings taken in spring/summer",
+            "Root in moist soil or water"
         ],
         "image_url": "../assets/images/croton.jpg"
     },
@@ -615,35 +511,25 @@
         "id": "QR019",
         "name": "Guava",
         "scientificName": "Psidium guajava",
-        "definition": "The guava is a tropical fruit-bearing shrub or small tree known for its high nutritional value. The fruit is a berry with a characteristic “musky” aroma, containing numerous small, hard seeds embedded in a sweet, pulpy flesh. ",
-        "origin": " It is native to the tropical regions of the Americas, specifically ranging from Mexico and Central America to Northern South America and the Caribbean.",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Class: Magnoliopsida",
-            "Order: Myrtales ",
-            "Family: Myrtaceae",
-            "Genus: Psidium",
-            "Species: Psidium guajava"
-        ],
-        "type": [
-            "The type species for the genus Psidium is Psidium guajava L. (Linnaeus). "
-        ],
-        "synonyms": [
-            "Guajava pyrifera",
-            "Guajava pomifera",
-            "Psidium aromaticum",
-            "Psidium pyriferum"
+        "localName": [
+            "Bayabas",
+            "Guyabas"
         ],
         "benefits": [
-            "High Vitamin C: Contains significantly more Vitamin C than oranges, boosting the immune system.",
-            "Dietary Fiber: Promotes healthy digestion and aids in weight management. ",
-            "Antioxidants: Rich in lycopene and polyphenols which protect cells from oxidative stress. ",
-            "Heart Health: May help lower blood pressure and “bad” LDL cholesterol. ",
-            "Medicinal Leaves: Guava leaves are often boiled into tea to treat diarrhea or used as an antiseptic for wounds. "
+            "Edible fruit rich in vitamin C, vitamin A, and fiber",
+            "Versatile use in jams, juices, and jellies"
         ],
-        "lifeSpan": [
-            "A guava tree typically lives for 30 to 40 years. While they can live longer, their fruit productivity often begins to decline after 15 to 20 years. Under ideal tropical."
+        "medicalUse": [
+            "Leaves and bark used as antiseptic for wounds",
+            "Fresh leaves help with toothaches or as mouthwash",
+            "Tea from leaves eases diarrhea and stomach troubles"
+        ],
+        "ornamentalUse": [
+            "Sweet-smelling flowers and thick green canopy",
+            "Attractive shade tree for yards"
+        ],
+        "propagation": [
+            "Through cuttings, air-layering, or grafting"
         ],
         "image_url": "../assets/images/guava.jpg"
     },
@@ -651,28 +537,25 @@
         "id": "QR020",
         "name": "Bougainvillea",
         "scientificName": "B. glabra",
-        "definition": "A tropical woody climbing plant known for its vibrant, showy bracts that surround smal, inconspicuous flower.",
-        "origin": "Native to South America, including Mexico, Brazil, Bolivia, Paraguay, Peru, and . Argentina. ",
-        "scientificClass": [
-            "Domain: Eukaryote",
-            "Kingdom: Plantae",
-            "Division: Magnoliophyta",
-            "Class: Magnoliopsida",
-            "Order: Caryophyllales",
-            "Family: Nyctaginaceae",
-            "Genus: Bougainvillea"
-        ],
-        "type": [
-            "There are between 4 and 22 species in the genus. One of the most popular species is Bougainvillea spectabilis."
-        ],
-        "synonyms": [
-            "Synonyms include Tricycla."
+        "localName": [
+            "Bugambilia",
+            "Bougainvilla"
         ],
         "benefits": [
-            "Bougainvillea is used for ornamental purposes, adding color to gardens, patios, and balconies. They attract pollinators and are relatively low maintenance."
+            "Attracts pollinators",
+            "Low maintenance and drought-tolerant"
         ],
-        "lifeSpan": [
-            "With proper care, bougainvilleas can live for 50 years or longer. In winter gardens, they canlive for 20 to 30 years"
+        "medicalUse": [
+            "Used for coughs, colds, and sore throat",
+            "Mild anti-inflammatory and antibacterial remedy"
+        ],
+        "ornamentalUse": [
+            "Known for bright, colorful bracts in pink, purple, red, and white",
+            "Long-lasting blooms for landscaping and containers"
+        ],
+        "propagation": [
+            "Through stem cuttings",
+            "Layering"
         ],
         "image_url": "../assets/images/bougainvillea.jpg"
     }
