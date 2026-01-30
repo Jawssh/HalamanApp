@@ -9,6 +9,7 @@
             "Butterfly Palm",
             "Yellow Palm"
         ],
+        "definition": "Dypsis lutescens is a clumping, tropical palm tree known for its slender, arching fronds with feathery leaflets and yellowish stems. It’s widely grown as an ornamental plant for indoor decor and outdoor landscaping in warm climates. ",
         "benefits": [
             "Air purification",
             "Humidity regulation",
@@ -37,6 +38,7 @@
         "localName": [
             "Sabila"
         ],
+        "definition": "Aloe vera is a stemless or short-stemmed succulent plant in the Asphodelaceae family, known for its thick, fleshy, serrated leaves that contain a gel-rich in bioactive compounds. It’s widely cultivated for medicinal, cosmetic, and ornamental use.",
         "benefits": [
             "Soothes sunburns, skin irritation, rashes, and minor wounds; moisturizes skin and promotes healing. ",
             "Nourishes scalp, reduces dandruff, and strengthens hair. ",
@@ -69,6 +71,7 @@
             "Chichirica",
             "Tsitsirika"
         ],
+        "definition": "Madagascar periwinkle is an evergreen, tender, erect-to-spreading perennial in the dogbane family (Apocynaceae). It is native to Madagascar but has naturalized in warm areas around the world. The species epithet means 'pink.' ",
         "benefits": [
             "Air Purification.",
             "Educational Value widely studied for its medicinal compounds, especially in cancer research.",
@@ -99,6 +102,7 @@
             "Buddha tree",
             "Indian fir tree"
         ],
+        "definition": " A tall, evergreen tree known for its slender, columnar growth habit and wavy-edged leaves.",
         "benefits": [
             "Dust and air pollution are reduced by the use of air filtering systems.",
             "Sound mitigation as a natural sound barrier, thick leaves lower noise levels.",
@@ -126,6 +130,7 @@
             "Yellow alder",
             "Yellow elder"
         ],
+        "definition": "Turnera ulmifolia is a perennial, woody herb or erect shrub in the Passifloraceae (formerly Turneraceae) family. It’s recognized by its lanceolate/ovate serrated leaves and bright yellow, star-shaped flowers that open in the morning and close by afternoon. It’s valued for ornamental and medicinal uses.",
         "benefits": [
             "Ornamental value dried leaves used for tea, flavoring.",
             "Traditional medicinal uses for various ailments."
@@ -149,6 +154,7 @@
             "Rubber tree",
             "Indian rubber plant"
         ],
+        "definition": "A large tropical evergreen tree or ornamental houseplant known for its thick, glossy leaves that produce a milky latex used in making natural rubber. ",
         "benefits": [
             "Air Purification.",
             "Its large green leaves help create a calming indoor environment."
@@ -174,6 +180,7 @@
             "Song of India",
             "Pleomele"
         ],
+        "definition": "A tropical evergreen shrub known for its glossy, lance-shaped leaves arranged spirally around the stem. It is a popular ornamental houseplant valued for its attractive foliage and air-purifying qualities. ",
         "benefits": [
             "Valuable ornamental foliage plant with attractive variegation.",
             "Helps improve indoor air quality by removing pollutants. ",
@@ -201,6 +208,7 @@
             "Santan",
             "Santan-pula (red ixora)"
         ],
+        "definition": "A flowering tropical shrub known for its bright red, pink, or orange flower clusters. ",
         "benefits": [
             "Bright clusters of flowers add ornamental beauty to gardens",
             "Attracts pollinators such as bees and butterflies"
@@ -229,6 +237,7 @@
             "Mansanitas",
             "Calabur tree"
         ],
+        "definition": "A fast-growing tropical fruit tree known for its small, sweet red berries.",
         "benefits": [
             "Provides sweet edible fruit enjoyed fresh or in jams",
             "Fast-growing shade tree for gardens and streets",
@@ -259,6 +268,7 @@
             "Kilála",
             "Ti-as"
         ],
+        "definition": " The Ti plant, or Cordyline fruticosa, is an evergreen shrub prized for its vibrant, colorful foliage. It's often used as an ornamental plant, both indoors and outdoors, in tropical and subtropical climates. ",
         "benefits": [
             "Air Purification",
             "Resilient and Adaptable for indoor and outdoor growing"
@@ -290,6 +300,7 @@
         "localName": [
             "Espada plant"
         ],
+        "definition": "A hardy ornamental plant with long upright sword-shaped leaves. ",
         "benefits": [
             "Air Purification",
             "Nighttime Oxygen Production",
@@ -322,6 +333,7 @@
         "localName": [
             "Amoras"
         ],
+        "definition": "A fruit-bearing tree that produces small sweet edible berries. ",
         "benefits": [
             "Fruits are rich in vitamin C, antioxidants, and minerals",
             "Support heart health, boost immunity, and aid cognitive function",
@@ -349,6 +361,7 @@
         "localName": [
             "Pigeon berry"
         ],
+        "definition": "A tropical American herb with racemes of red berries resembling those of pokeweed. ",
         "benefits": [
             "Has anti-inflammatory, antioxidant, and antimicrobial properties",
             "Soothes inflammation and reduces pain",
@@ -380,6 +393,7 @@
             "Luha",
             "Urong"
         ],
+        "definition": "An erect succulent shrub with green, zig-zag shaped branches.",
         "benefits": [
             "Sap has anti-inflammatory and analgesic properties",
             "Helps purify air",
@@ -408,6 +422,7 @@
             "Nopal",
             "Tuna cactus"
         ],
+        "definition": "A cactus characterized by flat, paddle-shaped stems and spiky thorns. The prickly pear typically grows with flat, rounded cladodes (also called platyclades). ",
         "benefits": [
             "Air Purification",
             "Highly drought-resistant and helps prevent soil erosion"
@@ -434,6 +449,7 @@
         "localName": [
             "Yellow Bell"
         ],
+        "definition": "A tropical, evergreen, perennial vine in the dogbane family (Apocynaceae). It is cultivated for its showy, golden yellow flowers.",
         "benefits": [
             "Adds visual appeal to landscapes",
             "Attracts pollinators like bees and butterflies",
@@ -461,6 +477,7 @@
             "Kahel",
             "Philippine Orange"
         ],
+        "definition": "Dalandan is a small, erect tree with smooth, greenish white shoots with spinescent thorns.",
         "benefits": [
             "High Vitamin C content for immune support",
             "Bioflavonoids provide anti-inflammatory and antioxidant activities",
@@ -488,6 +505,7 @@
         "localName": [
             "Mayana"
         ],
+        "definition": "A tropical ornamental plant widely known for its thick, glossy, and brightly colored leaves that display combinations of green, yellow, red, orange, and purple. ",
         "benefits": [
             "Air Purification helps filter indoor air toxins",
             "Used in local traditions for decorative purposes during festivals"
@@ -515,6 +533,7 @@
             "Bayabas",
             "Guyabas"
         ],
+        "definition": "The guava is a tropical fruit-bearing shrub or small tree known for its high nutritional value. The fruit is a berry with a characteristic “musky” aroma, containing numerous small, hard seeds embedded in a sweet, pulpy flesh. ",
         "benefits": [
             "Edible fruit rich in vitamin C, vitamin A, and fiber",
             "Versatile use in jams, juices, and jellies"
@@ -541,6 +560,7 @@
             "Bugambilia",
             "Bougainvilla"
         ],
+        "definition": "A tropical woody climbing plant known for its vibrant, showy bracts that surround smal, inconspicuous flower.",
         "benefits": [
             "Attracts pollinators",
             "Low maintenance and drought-tolerant"

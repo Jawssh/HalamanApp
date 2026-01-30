@@ -28,6 +28,7 @@ window.addEventListener("load", () => {
             document.getElementById("info").innerHTML = `
                 <img src="${result.image_url}"/>
                 <center><h2>${result.name} ${result.scientificName ? '(<i>' + result.scientificName + '</i>)' : ""}</h2></center>
+                 <p><strong>Description:</strong> ${result.definition}</p>
               <p><strong>Local Name (In Philippines):</strong></p>
                 <ul>
                 ${result.localName.map(item => `<li>${item}</li>`).join("")}
